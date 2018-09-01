@@ -1,0 +1,106 @@
+body {
+
+    position: relative;
+
+}
+
+#home {
+
+    background-image: url("../images/islasBaleares.jpg");
+    margin-bottom: 0;
+
+}
+
+#title {
+
+    margin-top: 50px;
+    width: 95%;
+
+}
+
+#subText {
+
+    font-weight: bold;
+
+}
+
+.input-group {
+
+    width: 30%;
+    margin: 0 auto;
+
+}
+
+#email {
+
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+
+}
+
+#signUp {
+
+    margin-left: 4px;
+
+}
+
+#about {
+
+    padding: 100px 0;
+    background: #ffffff;
+
+}
+
+#aboutHeader {
+
+    margin-bottom: 60px;
+
+}
+
+.headerText {
+
+    font-size: 250%;
+    font-weight: bold;
+
+}
+
+.card > img {
+
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+
+}
+
+i {
+
+    margin-right: 8px;
+
+}
+
+#download {
+
+    background-color: #10799c;
+    padding: 100px 0;
+
+}
+
+#appStoreLogo {
+
+    width: 200px;
+
+}
+
+.vertical-center {
+
+    min-height: 100%;
+    display: flex;
+    align-items: center;
+
+}
+
+.full-width {
+
+    flex-basis: 100%;
+
+}
