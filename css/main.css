@@ -161,6 +161,10 @@ p {
   margin-bottom: .5em;
 }
 
+p.story {
+  text-indent: 1.5em;
+}
+
 /*--------------------Sub Nav Section--------------------*/
 
 .subNavPanel {
@@ -208,39 +212,6 @@ p {
 small {
   display: block;
   text-align: center;
-}
-
-
-/*--------------------Web portfolio projects section--------------------*/
-
-.projects {
-  margin-left: 1em;
-}
-
-.projectInfo {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: flex-start;
-  margin-bottom: 1em;
-}
-
-.LinkBox {
-  width: 30%;
-}
-
-.projectLink {
-  display: block;
-  color: #1a83b9;
-}
-
-.projectDesc {
-  width: 70%;
-}
-
-.focus {
-  margin-left: 30%;
-  padding-left: 1em;
-  color: #5a5050;
 }
 
 /*--------------------Footer--------------------*/
@@ -305,7 +276,12 @@ footer {
   margin: 1em 0 1em 1em;
 }
 
-/*--------------------CV styles--------------------*/
+/*--------------------Resume styles--------------------*/
+
+.summary {
+  font-style: italic;
+  text-align: center;
+}
 
 .academic, .teaching, .service, .profesional, .international, .tech, .dissertation {
   display: flex;
@@ -314,10 +290,57 @@ footer {
   padding: 0 1em;
 }
 
+.otherSkills {
+  width: 100%;
+  padding-left: 1em;
+}
+
+@media screen and (min-width: 700px) {
+  .otherSkills {
+    padding-left: 0;
+  }
+
+  .skills {
+    display: inline-block;
+    width: 300px;
+  }
+
+  .skills::before {
+    content: "\2022";
+    margin-right: .5em;
+    font-size: 1.3em;
+    vertical-align: middle;
+  }
+}
+
+.project {
+  margin-bottom: 0;
+}
+
+.projectInfo {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 1em;
+  margin-left: 2em;
+  width: 55%;
+}
+
+.projectLink {
+  color: #1a83b9;
+  padding: 10px 10px 10px 0;
+}
+
+.projectTitle {
+  width: 30%;
+  flex-basis: 100%;
+}
+
 .sectionHeader {
-  margin: 0 0 1em 1em;
+  margin: 1em 0 1em 1em;
+  padding-bottom: .25em;
   width: 100%;
   text-transform: uppercase;
+  border-bottom: 1px solid #9799a2;
 }
 
 .section, .sectionHeader {
@@ -325,24 +348,21 @@ footer {
 }
 
 .dates {
-  width: 100px;
+  width: 30%;
   padding-left: .1em;
 }
 
-.degreeInst, .titleInst, .dissTitleInst {
+.degreeInst, .certifications {
   margin-left: 2em;
-  width: 75%;
-}
-
-.titleInst, .dissTitleInst {
-  max-width: 575px;
+  width: 55%;
 }
 
 .degree, .institution, .city, .duties, .advisor {
   display: block;
 }
 
-.description, .institution, .advisor, .dissTitle  {
+.description, .institution  {
+  width: 100%;
   max-width: 55ch;
 }
 

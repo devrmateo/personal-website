@@ -60,7 +60,7 @@
             </div>
             <div class="formGroup">
               <label for="comments">Comments:</label>
-              <textarea name="comments" rows="5" placeholder="How can I help?" required></textarea>
+              <textarea name="comments" rows="5" placeholder="Please get in touch." required></textarea>
             </div>
             <button type="submit" name="submit">Submit</button>
           </form>

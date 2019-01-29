@@ -12,13 +12,13 @@
           <?php include "includes/nav.php";?>
         </section>
         <section class="content index">
-          <h2>Spanish Instructor and Web Developer</h2>
+          <h2>Web Developer | Grow With Google Scholar</h2>
           <div class="image">
             <img class="profile" src="images/profile.jpg">
           </div>
-          <p class="first">I am a Spanish instructor with twenty years of teaching experience, and a freelance web developer with certifications in HTML, CSS, JavaScript, jQuery, PHP, and MySQL. This is my personal website.  It includes a resume section listing my work experience in both fields, as well as a web development page with links to my projects.</p>
-          <p>My background in the humanities lends me a unique insight into web development (see the article in the "Related" section).  I approach every project with a critical eye.  Specifically, I want to know what the website's motivation is–why, and for whom is it being built?  Once the objective is clear, then the technical aspects tend to fall in line.  Also, I am a clear and concise communicator, and I am always up-front with my clients regarding timelines and payment.</p>
-          <p>Explore this website to get to know me and see my sample projects.  If you are interested, get in touch with me using the contact form. Let's get to work!</p>
+          <p class="first">I am a detail-oriented Front-End Web Developer with certifications in HTML, CSS, JavaScript, jQuery, PHP, and MySQL. Recently, I completed Udacity's Front-End Web Developer Nanodegree, for which I earned a full scholarship through the Grow With Google Initiative.</p>
+          <p>Before becoming a web developer, I taught college Spanish for twenty years.  This prior experience in the humanities lends me a unique insight into the tech world (see the article in the "Related" section).  It is clear that you need to have the requisite knowledge and skills to be a successful developer.  Nonetheless, the manner in which you approach problems is even more important.  I utilize my well-honed critical thinking skills to identify potential challenges in any project that I am working on, and then I ask the right questions to go about overcoming them.</p>
+          <p>Explore this website to get to know a little bit more about me.  If you're interested, get in touch using the contact form.  I look forward to helping you add value to your personal life, business or organization.</p>
         </section>
         <section class="subNavPanel">
           <h4 class="subNavHeader">Related</h4>

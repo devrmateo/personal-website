@@ -34,6 +34,17 @@ html, body {
 
 }
 
+
+.disclaimer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding: 1em;
+  background-color: orange;
+}
+
+
 .lessMargin {
 
      margin-top: 1em;

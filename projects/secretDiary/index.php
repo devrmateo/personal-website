@@ -74,6 +74,8 @@
 
      <body>
 
+          <div class="disclaimer">Disclaimer: This is an application that I built to continue my learning and showcase my skills.  Please do not enter any personal information.</div>
+
           <div class="container-fluid text-center">
 
                <h1>Secret Diary</h1>
