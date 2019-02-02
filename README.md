@@ -1,7 +1,7 @@
 # Personal Website
 ___
 
-This is the code that I wrote to create my personal website.  I built it using PHP and JavaScript, making use of various included files, to ensure a clean directory structure.
+This is my personal website.  It serves as a digital portfolio of my web development skills and projects, and explains how I got into the field of web development to begin with.  I built it using PHP, making use of various file includes, to ensure a clean directory structure and files that were easier to read.
 
 # How to view this website locally
 ___
