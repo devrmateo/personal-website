@@ -106,7 +106,18 @@
             </div>
             </section>
           </section>
-
+          <section class="tech project">
+            <div class="dates">April 2017</div>
+            <section class="projectInfo">
+              <div class="projectTitle"><a class="projectLink" href="projects/secretDiary/" target="_blank">Secret Diary</a></div>
+              <div>
+                <ul>
+                  <li>Built secret diary application using PHP and MySQL.</li>
+                  <li>Utilized jQuery's AJAX method to asynchronously update the database.</li>
+                </ul>
+            </div>
+            </section>
+          </section>
           <h3 class="sectionHeader">Experience</h3>
           <section class="tech">
             <div class="dates">May 2017- June 2018</div>
