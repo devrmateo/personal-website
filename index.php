@@ -18,7 +18,7 @@
           </div>
           <p class="first">I am a detail-oriented Front-End Web Developer with certifications in HTML, CSS, JavaScript, jQuery, PHP, and MySQL. Recently, I completed Udacity's Front-End Web Developer Nanodegree, for which I earned a full scholarship through the Grow With Google Initiative.</p>
           <p>Before becoming a web developer, I taught college Spanish for almost twenty years.  My experience in the humanities lends me a unique insight into the tech world (see the link in the "Related" section).  Having technical knowledge is a requisite to being a successful developer, but being able to solve problems is even more important.</p>
-          <p>To find out more about me and how I got into web development, explore this website.  You can also check out the blog post that I wrote about my career transition, which got published on Udacity's Medium publication (see the link in the "Related" section).
+          <p>You can find out more about me and how I got into web development by exploring this website.  You can also check out the blog post that I wrote about my career transition, which was published on Udacity's Medium publication (see the link in the "Related" section).
           </p>
         </section>
         <section class="subNavPanel">

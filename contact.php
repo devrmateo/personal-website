@@ -63,6 +63,7 @@
               <textarea name="comments" rows="5" placeholder="Please get in touch." required></textarea>
             </div>
             <button type="submit" name="submit">Submit</button>
+            <div class="contactEmail">You can also email me directly at: <a class="email" href="mailto:webdevmateo@gmail.com">webdevmateo@gmail.com</a></div>
           </form>
         </section>
       </main>
