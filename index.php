@@ -17,17 +17,20 @@
             <img class="profile" src="images/profile.jpg">
           </div>
           <p class="first">I am a detail-oriented Front-End Web Developer with certifications in HTML, CSS, JavaScript, jQuery, PHP, and MySQL. Recently, I completed Udacity's Front-End Web Developer Nanodegree, for which I earned a full scholarship through the Grow With Google Initiative.</p>
-          <p>Before becoming a web developer, I taught college Spanish for almost twenty years.  I wrote a blog post about my career transition, which recently got published on Udacity's Medium publication (click on the link in the "Related" section to read it).
-          <p>My prior experience in the humanities lends me a unique insight into the tech world (see the linked article in the "Related" section).  It is clear that you need to have the requisite knowledge and skills to be a successful developer.  Nonetheless, the manner in which you approach problems is even more important.  I utilize my well-honed critical thinking skills to identify potential problems in any project that I am working on, and then I ask the right questions to go about solving them.</p>
+          <p>Before becoming a web developer, I taught college Spanish for almost twenty years.  My experience in the humanities lends me a unique insight into the tech world (see the link in the "Related" section).  Having technical knowledge is a requisite to being a successful developer, but being able to solve problems is even more important.</p>
+          <p>To find out more about me and how I got into web development, explore this website.  You can also check out the blog post that I wrote about my career transition, which got published on Udacity's Medium publication (see the link in the "Related" section).
+          </p>
         </section>
         <section class="subNavPanel">
           <h4 class="subNavHeader">Related</h4>
           <nav class="subNav">
             <ul class="related">
                <li class="relatedLi"><a class="subNavLink" href="https://medium.com/udacity/my-journey-from-spanish-instructor-to-web-developer-went-through-udacity-f18e522b2406" target="_blank">My Journey from Spanish Instructor to Web Developer With Udacity</a></li>
-              <li class="relatedLi"><a class="subNavLink" href="https://hbr.org/2017/07/liberal-arts-in-the-data-age" target="_blank">Liberal Arts Majors Are the Future of the Tech Industry</a></li>
+              <li class="relatedLi"><a class="subNavLink" href="https://hbr.org/2017/07/liberal-arts-in-the-data-age" target="_blank">Liberal Arts Majors Are the Future of the Tech Industry</a>
+              <small>–Harvard Business Review</small>
+              </li>
             </ul>
-            <small>–Harvard Business Review</small>
+
           </nav>
         </section>
       </main>
