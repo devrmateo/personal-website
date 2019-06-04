@@ -13,61 +13,7 @@
         </section>
         <section class="content extendedContent">
           <h2>Resume</h2>
-          <div class="summary">I am a detail-oriented Front-End Web Developer with certifications in HTML, CSS, JavaScript, jQuery, PHP, and MySQL. In addition, I am a talented problem solver, critical thinker, and communicator, aided by my previous experience as a college-level Spanish instructor. I recently completed Udacity's Front-End Web Developer Nanodegree, for which I earned a full scholarship through the Grow With Google Initiative.</div>
-          <h3 class="sectionHeader">Certifications</h3>
-          <section class="tech">
-            <div class="dates">December 2016</div>
-            <section class="certifications">
-              <a class="projectLink" href="https://matthewpricesmith.com/files/html.pdf" target="_blank">HTML – Level 1 Certification</a>
-            </section>
-          </section>
-          <section class="tech">
-            <div class="dates">December 2016</div>
-            <section class="certifications">
-              <a class="projectLink" href="https://matthewpricesmith.com/files/css.pdf" target="_blank">CSS – Level 1 Certification</a>
-            </section>
-          </section>
-          <section class="tech">
-            <div class="dates">December 2016</div>
-            <section class="certifications">
-              <a class="projectLink" href="https://matthewpricesmith.com/files/javascript.pdf" target="_blank">JavaScript – Level 1 Certification</a>
-            </section>
-          </section>
-          <section class="tech">
-            <div class="dates">January 2017</div>
-            <section class="certifications">
-              <a class="projectLink" href="https://matthewpricesmith.com/files/jquery.pdf" target="_blank">jQuery – Level 1 Certification</a>
-            </section>
-          </section>
-          <section class="tech">
-            <div class="dates">March 2017</div>
-            <section class="certifications">
-              <a class="projectLink" href="https://matthewpricesmith.com/files/php.pdf" target="_blank">PHP – Level 1 Certification</a>
-            </section>
-          </section>
-          <section class="tech">
-            <div class="dates">June 2017</div>
-            <section class="certifications">
-              <a class="projectLink" href="https://matthewpricesmith.com/files/mysql.pdf" target="_blank">MySQL – Level 1 Certification</a>
-            </section>
-          </section>
-          <h3 class="sectionHeader">Other Technical Skills</h3>
-          <section class="otherSkills">
-            <ul>
-              <li class="skills">Object-Oriented Programming</li>
-              <li class="skills">Responsive Web Design</li>
-              <li class="skills">Git</li>
-              <li class="skills">Github</li>
-              <li class="skills">W3C Accessibility</li>
-              <li class="skills">Command Line (Terminal)</li>
-              <li class="skills">Gulp</li>
-              <li class="skills">Bootstrap</li>
-              <li class="skills">WordPress</li>
-              <li class="skills">Node Package Manager</li>
-              <li class="skills">AJAX</li>
-              <li class="skills">React</li>
-            </ul>
-          </section>
+          <div class="summary">I am a Front-End Web Developer with proficiency in React, Redux, and React Native. In addition, I am a talented problem solver, critical thinker, and communicator, aided by my previous experience as a college-level Spanish instructor.</div>
           <h3 class="sectionHeader">Projects</h3>
           <section class="tech project">
             <div class="dates">December 2018 - present</div>
@@ -120,6 +66,18 @@
           </section>
           <h3 class="sectionHeader">Experience</h3>
           <section class="tech">
+            <div class="dates">May 2019 - Present</div>
+            <section class="certifications">
+              <span class="title">Independent Consultant</span>
+              <span class="institution">Udacity</span>
+              <span class="city">Remote</span>
+              <ul class="duties">
+                <li class="description">Utilize my specialized knowledge in the field of web development to provide individualized technical support and other student support services.</li>
+                <li class="link"><a class="url" href="https://www.udacity.com/" target="_blank">https://www.udacity.com/</a></li>
+              </ul>
+            </section>
+          </section>
+          <section class="tech">
             <div class="dates">May 2017- June 2018</div>
             <section class="certifications">
               <span class="title">Webmaster</span>
@@ -157,6 +115,15 @@
             </section>
           </section>
           <h3 class="sectionHeader">Education</h3>
+          <section class="academic">
+            <div class="dates">June 2019</div>
+            <section class="degreeInst">
+              <div>
+                <span class="degree"><a class="projectLink" href="https://confirm.udacity.com/2HPDSE3L" target="_blank">Nanodegree – React</a></span>
+                <span class="institution">Udacity</span>
+              </div>
+            </section>
+          </section>
           <section class="academic">
             <div class="dates">December 2018</div>
             <section class="degreeInst">
@@ -221,6 +188,63 @@
                 <span class="institution">Bowling Green State University</span>
                 <span class="city">Bowling Green, Ohio</span>
             </section>
+          </section>
+          <h3 class="sectionHeader">Certifications</h3>
+          <section class="tech">
+            <div class="dates">December 2016</div>
+            <section class="certifications">
+              <a class="projectLink" href="https://matthewpricesmith.com/files/html.pdf" target="_blank">HTML – Level 1 Certification</a>
+            </section>
+          </section>
+          <section class="tech">
+            <div class="dates">December 2016</div>
+            <section class="certifications">
+              <a class="projectLink" href="https://matthewpricesmith.com/files/css.pdf" target="_blank">CSS – Level 1 Certification</a>
+            </section>
+          </section>
+          <section class="tech">
+            <div class="dates">December 2016</div>
+            <section class="certifications">
+              <a class="projectLink" href="https://matthewpricesmith.com/files/javascript.pdf" target="_blank">JavaScript – Level 1 Certification</a>
+            </section>
+          </section>
+          <section class="tech">
+            <div class="dates">January 2017</div>
+            <section class="certifications">
+              <a class="projectLink" href="https://matthewpricesmith.com/files/jquery.pdf" target="_blank">jQuery – Level 1 Certification</a>
+            </section>
+          </section>
+          <section class="tech">
+            <div class="dates">March 2017</div>
+            <section class="certifications">
+              <a class="projectLink" href="https://matthewpricesmith.com/files/php.pdf" target="_blank">PHP – Level 1 Certification</a>
+            </section>
+          </section>
+          <section class="tech">
+            <div class="dates">June 2017</div>
+            <section class="certifications">
+              <a class="projectLink" href="https://matthewpricesmith.com/files/mysql.pdf" target="_blank">MySQL – Level 1 Certification</a>
+            </section>
+          </section>
+          <h3 class="sectionHeader">Other Technical Skills</h3>
+          <section class="otherSkills">
+            <ul>
+              <li class="skills">Object-Oriented Programming</li>
+              <li class="skills">Responsive Web Design</li>
+              <li class="skills">Git</li>
+              <li class="skills">Github</li>
+              <li class="skills">W3C Accessibility</li>
+              <li class="skills">Command Line (Terminal)</li>
+              <li class="skills">Gulp</li>
+              <li class="skills">Bootstrap</li>
+              <li class="skills">WordPress</li>
+              <li class="skills">Node Package Manager</li>
+              <li class="skills">AJAX</li>
+              <li class="skills">React</li>
+              <li class="skills">Redux</li>
+              <li class="skills">React Native</li>
+              <li class="skills">Styled Components</li>
+            </ul>
           </section>
         </section>
         <!---End Content Section-->
