@@ -1,14 +1,17 @@
 {
-  "main.css": "/projects/wouldYouRather/static/css/main.f8c52570.chunk.css",
-  "main.js": "/projects/wouldYouRather/static/js/main.212a3253.chunk.js",
-  "main.js.map": "/projects/wouldYouRather/static/js/main.212a3253.chunk.js.map",
+  "main.css": "/projects/wouldYouRather/static/css/main.a1fe2369.chunk.css",
+  "main.js": "/projects/wouldYouRather/static/js/main.a231707f.chunk.js",
+  "main.js.map": "/projects/wouldYouRather/static/js/main.a231707f.chunk.js.map",
   "runtime~main.js": "/projects/wouldYouRather/static/js/runtime~main.34729580.js",
   "runtime~main.js.map": "/projects/wouldYouRather/static/js/runtime~main.34729580.js.map",
-  "static/js/2.c14609c4.chunk.js": "/projects/wouldYouRather/static/js/2.c14609c4.chunk.js",
-  "static/js/2.c14609c4.chunk.js.map": "/projects/wouldYouRather/static/js/2.c14609c4.chunk.js.map",
+  "static/js/2.82e1932e.chunk.js": "/projects/wouldYouRather/static/js/2.82e1932e.chunk.js",
+  "static/js/2.82e1932e.chunk.js.map": "/projects/wouldYouRather/static/js/2.82e1932e.chunk.js.map",
   "index.html": "/projects/wouldYouRather/index.html",
-  "precache-manifest.9045f7b39cf651cb03150dfe6e8c0c27.js": "/projects/wouldYouRather/precache-manifest.9045f7b39cf651cb03150dfe6e8c0c27.js",
+  "precache-manifest.161a7edb88cbb51aebf9c43b00f5081e.js": "/projects/wouldYouRather/precache-manifest.161a7edb88cbb51aebf9c43b00f5081e.js",
   "service-worker.js": "/projects/wouldYouRather/service-worker.js",
-  "static/css/main.f8c52570.chunk.css.map": "/projects/wouldYouRather/static/css/main.f8c52570.chunk.css.map",
-  "static/media/question-mark.jpeg": "/projects/wouldYouRather/static/media/question-mark.9d6b40a4.jpeg"
+  "static/css/main.a1fe2369.chunk.css.map": "/projects/wouldYouRather/static/css/main.a1fe2369.chunk.css.map",
+  "static/media/man.png": "/projects/wouldYouRather/static/media/man.379574c7.png",
+  "static/media/question-mark.jpeg": "/projects/wouldYouRather/static/media/question-mark.9d6b40a4.jpeg",
+  "static/media/woman1.png": "/projects/wouldYouRather/static/media/woman1.2b03ade5.png",
+  "static/media/woman2.png": "/projects/wouldYouRather/static/media/woman2.52fff76d.png"
 }
