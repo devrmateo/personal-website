@@ -16,13 +16,23 @@
           <div class="summary">I am a Front-End Web Developer with proficiency in React, Redux, and React Native. In addition, I am a talented problem solver, critical thinker, and communicator, aided by my previous experience as a college-level Spanish instructor.</div>
           <h3 class="sectionHeader">Projects</h3>
           <section class="tech project">
-            <div class="dates">December 2018 - present</div>
+            <div class="dates">April 2019</div>
+            <section class="projectInfo">
+              <div class="projectTitle"><a class="projectLink" href="projects/wouldYouRather" target="_blank">Would You Rather App</a></div>
+              <div>
+                <ul>
+                  <li>Created an online version of the popular game "Would You Rather" using React and Redux.</li>
+                </ul>
+              </div>
+            </section>
+          </section>
+          <section class="tech project">
+            <div class="dates">December 2018</div>
             <section class="projectInfo">
               <div class="projectTitle"><a class="projectLink" href="projects/neighborhoodMap" target="_blank">Neighborhood Map</a></div>
               <div>
                 <ul>
                   <li>Created an online neighborhood map application using React, the Google Maps JavaScript API, and the FourSquare Places API.</li>
-                  <li>Utilized AJAX requests and Promises to incorporate the APIs in a secure manner.</li>
                 </ul>
               </div>
             </section>
@@ -33,7 +43,7 @@
               <div class="projectTitle"><a class="projectLink" href="projects/myReads/" target="_blank">MyReads - A Book Tracking App</a></div>
               <div>
                 <ul>
-                  <li>Built online bookshelf application using React and Udacity's React Nanodegree's Books API.</li>
+                  <li>Built an online bookshelf application using React and Udacity's React Nanodegree's Books API.</li>
                   <li>Leveraged React Router to properly route the application.</li>
                 </ul>
             </div>
@@ -48,18 +58,6 @@
                   <li>Built restaurant reviews application with a focus on responsive design, accessibility, and offline access.</li>
                   <li>Utilized media queries, responsive image techniques and a service worker to cache content for offline use.
                   </li>
-                </ul>
-            </div>
-            </section>
-          </section>
-          <section class="tech project">
-            <div class="dates">April 2017</div>
-            <section class="projectInfo">
-              <div class="projectTitle"><a class="projectLink" href="projects/secretDiary/" target="_blank">Secret Diary</a></div>
-              <div>
-                <ul>
-                  <li>Built secret diary application using PHP and MySQL.</li>
-                  <li>Utilized jQuery's AJAX method to asynchronously update the database.</li>
                 </ul>
             </div>
             </section>
