@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "623e31d7f7fb7d47f497",
-    "url": "/projects/wouldYouRather/static/css/main.a1fe2369.chunk.css"
+    "revision": "55e15cf91935e67b40a3",
+    "url": "/projects/wouldYouRather/static/css/main.9a95d5a8.chunk.css"
   },
   {
-    "revision": "623e31d7f7fb7d47f497",
+    "revision": "55e15cf91935e67b40a3",
     "url": "/projects/wouldYouRather/static/js/main.a231707f.chunk.js"
   },
   {
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/projects/wouldYouRather/static/media/question-mark.9d6b40a4.jpeg"
   },
   {
-    "revision": "1a46901d0cb7b5b6dda710f760ee3ef4",
+    "revision": "1b7e5c94787dc60f64f5b5dd44be599d",
     "url": "/projects/wouldYouRather/index.html"
   }
 ];
