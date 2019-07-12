@@ -19,7 +19,7 @@
             <div class="dates">April 2019</div>
             <section class="projectInfo">
               <div class="projectTitle"><a class="projectLink" href="projects/wouldYouRather" target="_blank">Would You Rather App</a></div>
-              <div>
+              <div class="projectDesc">
                 <ul>
                   <li>Created an online version of the popular game "Would You Rather" using React and Redux.</li>
                   <li class="gitHub"><a class="url" href="https://github.com/webdevmateo/would-you-rather" target="_blank">https://github.com/webdevmateo/would-you-rather</a></li>
@@ -31,7 +31,7 @@
             <div class="dates">December 2018</div>
             <section class="projectInfo">
               <div class="projectTitle"><a class="projectLink" href="projects/neighborhoodMap" target="_blank">Neighborhood Map</a></div>
-              <div>
+              <div class="projectDesc">
                 <ul>
                   <li>Created an online neighborhood map application using React, the Google Maps JavaScript API, and the FourSquare Places API.</li>
                   <li class="gitHub"><a class="url" href="https://github.com/webdevmateo/neighborhood-map-react" target="_blank">https://github.com/webdevmateo/neighborhood-map-react</a></li>
@@ -44,7 +44,7 @@
             <div class="dates">November 2018</div>
             <section class="projectInfo">
               <div class="projectTitle"><a class="projectLink" href="projects/myReads/" target="_blank">MyReads - A Book Tracking App</a></div>
-              <div>
+              <div class="projectDesc">
                 <ul>
                   <li>Built an online bookshelf application using React and Udacity's React Nanodegree's Books API.</li>
                   <li>Leveraged React Router to properly route the application.</li>
@@ -57,7 +57,7 @@
             <div class="dates">October 2018</div>
             <section class="projectInfo">
               <div class="projectTitle"><a class="projectLink" href="projects/restaurantReviews/" target="_blank">Restaurant Reviews</a></div>
-              <div>
+              <div class="projectDesc">
                 <ul>
                   <li>Built restaurant reviews application with a focus on responsive design, accessibility, and offline access.</li>
                   <li>Utilized media queries, responsive image techniques and a service worker to cache content for offline use.

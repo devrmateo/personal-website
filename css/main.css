@@ -336,6 +336,10 @@ footer {
   flex-basis: 100%;
 }
 
+.projectDesc {
+  width: 100%;
+}
+
 .sectionHeader {
   margin: 1em 0 1em 1em;
   padding-bottom: .25em;
