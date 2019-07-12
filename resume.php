@@ -22,6 +22,7 @@
               <div>
                 <ul>
                   <li>Created an online version of the popular game "Would You Rather" using React and Redux.</li>
+                  <li class="gitHub"><a class="url" href="https://github.com/webdevmateo/would-you-rather" target="_blank">https://github.com/webdevmateo/would-you-rather</a></li>
                 </ul>
               </div>
             </section>
@@ -33,6 +34,8 @@
               <div>
                 <ul>
                   <li>Created an online neighborhood map application using React, the Google Maps JavaScript API, and the FourSquare Places API.</li>
+                  <li class="gitHub"><a class="url" href="https://github.com/webdevmateo/neighborhood-map-react" target="_blank">https://github.com/webdevmateo/neighborhood-map-react</a></li>
+
                 </ul>
               </div>
             </section>
@@ -45,6 +48,7 @@
                 <ul>
                   <li>Built an online bookshelf application using React and Udacity's React Nanodegree's Books API.</li>
                   <li>Leveraged React Router to properly route the application.</li>
+                  <li class="gitHub"><a class="url" href="https://github.com/webdevmateo/my-reads-a-book-tracking-app" target="_blank">https://github.com/webdevmateo/my-reads-a-book-tracking-app</a></li>
                 </ul>
             </div>
             </section>
@@ -58,6 +62,7 @@
                   <li>Built restaurant reviews application with a focus on responsive design, accessibility, and offline access.</li>
                   <li>Utilized media queries, responsive image techniques and a service worker to cache content for offline use.
                   </li>
+                  <li class="gitHub"><a class="url" href="https://github.com/webdevmateo/restaurant-reviews-app" target="_blank">https://github.com/webdevmateo/restaurant-reviews-app</a></li>
                 </ul>
             </div>
             </section>

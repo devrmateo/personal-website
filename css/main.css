@@ -394,6 +394,15 @@ li {
   word-wrap: break-word;
 }
 
+.gitHub {
+  list-style-type: none;
+  margin-left: 0;
+}
+
+.gitHub::before {
+  content: "GitHub:";
+}
+
 .link::before {
   content: "Url:";
 }
@@ -481,14 +490,3 @@ button {
 .email:hover {
   color: #fb7725;
 }
-
-
-
-
-
-
-
-
-
-
-
