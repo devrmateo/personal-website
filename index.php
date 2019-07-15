@@ -16,9 +16,9 @@
           <div class="image">
             <img class="profile" src="images/profile.jpg">
           </div>
-          <p class="first">I am a Front-End Web Developer with proficiency in React, Redux, and React Native. In 2018, I completed Udacity's Front-End Web Developer Nanodegree, for which I earned a full scholarship through the Grow With Google Initiative.  I won the student story challenge with <a class="paragraph" href="https://medium.com/udacity/my-journey-from-spanish-instructor-to-web-developer-went-through-udacity-f18e522b2406" target="_blank">this submission</a>, and earned a scholarship to Udacity's React Nanodegree, which I completed in June of 2019.</p>
-          <p>Before becoming a web developer, I taught college Spanish for almost twenty years.  My experience in the humanities lends me a unique insight into the tech world (see the link in the "Related" section).  Having technical knowledge is a requisite to being a successful developer.  However, being able to solve problems is even more important.</p>
-          <p>You can find out more about me and how I got into web development by exploring this website.  You can also check out the aforementioned blog post that I wrote about my career transition, which was published on Udacity's Medium publication (see the link in the "Related" section).
+          <p class="first">I am a Front-End Web Developer with proficiency in React, Redux, and React Native.  Before becoming a web developer, I taught college Spanish for almost twenty years. My experience in the humanities lends me a unique insight into the tech world (see the link in the "Related" section). Having technical knowledge is a requisite to being a successful developer.  However, being able to solve problems is even more important.</p>
+          <p>In 2018, I completed Udacity's Front-End Web Developer Nanodegree, for which I earned a full scholarship through the Grow With Google Initiative.  During the program, I wrote about my career transition and won the student story challenge, earning a scholarship to Udacity's React Nanodegree, which I completed in June of 2019.</p>
+          <p>You can find out more about me and how I got into web development by exploring this website.  You can also check out the aforementioned blog post that I wrote about my career transition, which was published on Udacity's Medium publication, by clicking on the link in the "Related" section.
           </p>
         </section>
         <section class="subNavPanel">
