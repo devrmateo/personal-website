@@ -12,7 +12,7 @@
           <?php include "includes/nav.php";?>
         </section>
         <section class="content index">
-          <h2>Web Developer | Grow With Google Scholar</h2>
+          <h2>React Developer | Grow With Google Scholar</h2>
           <div class="image">
             <img class="profile" src="images/profile.jpg">
           </div>

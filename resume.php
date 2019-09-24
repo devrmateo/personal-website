@@ -16,13 +16,25 @@
           <div class="summary">I am a Front-End Web Developer with proficiency in React, Redux, and React Native. In addition, I am a talented problem solver, critical thinker, and communicator, aided by my previous experience as a college-level Spanish instructor.</div>
           <h3 class="sectionHeader">Projects</h3>
           <section class="tech project">
+            <div class="dates">May 2019</div>
+            <section class="projectInfo">
+              <div class="projectTitle">Mobile Flashcards</div>
+              <div class="projectDesc">
+                <ul>
+                  <li>Coded an iOS and Android mobile flashcards application using React Native.</li>
+                  <li class="gitHub"><a class="url" href="https://github.com/devrmateo/mobile-flashcards" target="_blank">https://github.com/devrmateo/mobile-flashcards</a></li>
+                </ul>
+              </div>
+            </section>
+          </section>
+          <section class="tech project">
             <div class="dates">April 2019</div>
             <section class="projectInfo">
               <div class="projectTitle"><a class="projectLink" href="projects/wouldYouRather" target="_blank">Would You Rather App</a></div>
               <div class="projectDesc">
                 <ul>
                   <li>Created an online version of the popular game "Would You Rather" using React and Redux.</li>
-                  <li class="gitHub"><a class="url" href="https://github.com/webdevmateo/would-you-rather" target="_blank">https://github.com/webdevmateo/would-you-rather</a></li>
+                  <li class="gitHub"><a class="url" href="https://github.com/devrmateo/would-you-rather" target="_blank">https://github.com/devrmateo/would-you-rather</a></li>
                 </ul>
               </div>
             </section>
@@ -34,7 +46,7 @@
               <div class="projectDesc">
                 <ul>
                   <li>Created an online neighborhood map application using React, the Google Maps JavaScript API, and the FourSquare Places API.</li>
-                  <li class="gitHub"><a class="url" href="https://github.com/webdevmateo/neighborhood-map-react" target="_blank">https://github.com/webdevmateo/neighborhood-map-react</a></li>
+                  <li class="gitHub"><a class="url" href="https://github.com/devrmateo/neighborhood-map-react" target="_blank">https://github.com/devrmateo/neighborhood-map-react</a></li>
 
                 </ul>
               </div>
@@ -48,7 +60,7 @@
                 <ul>
                   <li>Built an online bookshelf application using React and Udacity's React Nanodegree's Books API.</li>
                   <li>Leveraged React Router to properly route the application.</li>
-                  <li class="gitHub"><a class="url" href="https://github.com/webdevmateo/my-reads-a-book-tracking-app" target="_blank">https://github.com/webdevmateo/my-reads-a-book-tracking-app</a></li>
+                  <li class="gitHub"><a class="url" href="https://github.com/devrmateo/my-reads-a-book-tracking-app" target="_blank">https://github.com/devrmateo/my-reads-a-book-tracking-app</a></li>
                 </ul>
             </div>
             </section>
@@ -62,7 +74,7 @@
                   <li>Built restaurant reviews application with a focus on responsive design, accessibility, and offline access.</li>
                   <li>Utilized media queries, responsive image techniques and a service worker to cache content for offline use.
                   </li>
-                  <li class="gitHub"><a class="url" href="https://github.com/webdevmateo/restaurant-reviews-app" target="_blank">https://github.com/webdevmateo/restaurant-reviews-app</a></li>
+                  <li class="gitHub"><a class="url" href="https://github.com/devrmateo/restaurant-reviews-app" target="_blank">https://github.com/devrmateo/restaurant-reviews-app</a></li>
                 </ul>
             </div>
             </section>
