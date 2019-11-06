@@ -13,15 +13,30 @@
         </section>
         <section class="content extendedContent">
           <h2>Resume</h2>
-          <div class="summary">I am a Front-End Web Developer with proficiency in React, Redux, and React Native. In addition, I am a talented problem solver, critical thinker, and communicator, aided by my previous experience as a college-level Spanish instructor.</div>
+          <div class="summary">I am a Full Stack Developer with proficiency in React, Redux, React Native, and Firebase. In addition, I am a talented problem solver, critical thinker, and communicator, aided by my previous experience as a college-level Spanish instructor.</div>
           <h3 class="sectionHeader">Projects</h3>
+          <section class="tech project">
+            <div class="dates">Nov 2019</div>
+            <section class="projectInfo">
+              <div class="projectTitle">BernieBnB</div>
+              <div class="projectDesc">
+                <ul>
+                  <li>Utilize my skills with React Native, Firebase, and Git to build front-end and back-end features on an AirB&B-type app for political campaign volunteers.</li>
+                  <li>Participate in pair programming sessions and weekly meetings with teammates.</li>
+                  <div>GitLab: <a class="url" href="https://gitlab.com/devrmateo" target="_blank">https://gitlab.com/devrmateo</a></div>
+                  <div>(In App/Google Play stores by late November 2019)</div>
+                </ul>
+              </div>
+            </section>
+          </section>
           <section class="tech project">
             <div class="dates">May 2019</div>
             <section class="projectInfo">
               <div class="projectTitle">Mobile Flashcards</div>
               <div class="projectDesc">
                 <ul>
-                  <li>Coded an iOS and Android mobile flashcards application using React Native.</li>
+                  <li>Created an iOS and Android mobile flashcards application using React Native.</li>
+                  <li>Leveraged Redux and AsyncStorage for data management.</li>
                   <li class="gitHub"><a class="url" href="https://github.com/devrmateo/mobile-flashcards" target="_blank">https://github.com/devrmateo/mobile-flashcards</a></li>
                 </ul>
               </div>
@@ -33,7 +48,8 @@
               <div class="projectTitle"><a class="projectLink" href="projects/wouldYouRather" target="_blank">Would You Rather App</a></div>
               <div class="projectDesc">
                 <ul>
-                  <li>Created an online version of the popular game "Would You Rather" using React and Redux.</li>
+                  <li>Built online version of popular “Would You Rather” game using React and Redux.</li>
+                  <li>Leveraged Redux for state management and React for UI display.</li>
                   <li class="gitHub"><a class="url" href="https://github.com/devrmateo/would-you-rather" target="_blank">https://github.com/devrmateo/would-you-rather</a></li>
                 </ul>
               </div>
@@ -81,13 +97,26 @@
           </section>
           <h3 class="sectionHeader">Experience</h3>
           <section class="tech">
-            <div class="dates">May 2019 - Present</div>
+            <div class="dates">June 2019 - Present</div>
+            <section class="certifications">
+              <span class="title">Volunteer Full Stack Developer</span>
+              <span class="institution">Coders For Bernie</span>
+              <span class="city">Remote</span>
+              <ul class="duties">
+                <li class="description">Build front-end and back-end features on web development projects in service to a political campaign.</li>
+                <li>Collaborate with a team of seven developers in an agile environment.</li>
+              </ul>
+            </section>
+          </section>
+          <section class="tech">
+            <div class="dates">May 2019 - October 2019</div>
             <section class="certifications">
               <span class="title">Independent Consultant</span>
               <span class="institution">Udacity</span>
               <span class="city">Remote</span>
               <ul class="duties">
-                <li class="description">Utilize my specialized knowledge in the field of web development to provide individualized technical support and other student support services.</li>
+                <li class="description">Provided individualized technical support through code reviews and one-on-one virtual calls with students.</li>
+                <li>Served as an individual mentor to a cohort of up to fifty students.</li>
                 <li class="link"><a class="url" href="https://www.udacity.com/" target="_blank">https://www.udacity.com/</a></li>
               </ul>
             </section>
@@ -258,6 +287,7 @@
               <li class="skills">React</li>
               <li class="skills">Redux</li>
               <li class="skills">React Native</li>
+              <li class="skills">Firebase</li>
               <li class="skills">Styled Components</li>
             </ul>
           </section>
