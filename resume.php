@@ -24,7 +24,7 @@
                   <li>Utilize my skills with React Native, Firebase, and Git to build front-end and back-end features on an AirB&B-type app for political campaign volunteers.</li>
                   <li>Participate in pair programming sessions and weekly meetings with teammates.</li>
                   <div>GitLab: <a class="url" href="https://gitlab.com/devrmateo" target="_blank">https://gitlab.com/devrmateo</a></div>
-                  <div>(In App/Google Play stores by late November 2019)</div>
+                  <div>(In App/Google Play stores late November 2019)</div>
                 </ul>
               </div>
             </section>
@@ -99,6 +99,18 @@
           <section class="tech">
             <div class="dates">June 2019 - Present</div>
             <section class="certifications">
+              <span class="title">Campaign Volunteer</span>
+              <span class="institution">Bernie Sanders 2020</span>
+              <span class="city">Agoura Hills, CA</span>
+              <ul class="duties">
+                <li class="description">Communicate with potential voters through community canvasses and on the phone.</li>
+                <li>Lead community canvasses by organizing a staging area and training volunteers.</li>
+              </ul>
+            </section>
+          </section>
+          <section class="tech">
+            <div class="dates">June 2019 - Present</div>
+            <section class="certifications">
               <span class="title">Volunteer Full Stack Developer</span>
               <span class="institution">Coders For Bernie</span>
               <span class="city">Remote</span>
@@ -117,7 +129,6 @@
               <ul class="duties">
                 <li class="description">Provided individualized technical support through code reviews and one-on-one virtual calls with students.</li>
                 <li>Served as an individual mentor to a cohort of up to fifty students.</li>
-                <li class="link"><a class="url" href="https://www.udacity.com/" target="_blank">https://www.udacity.com/</a></li>
               </ul>
             </section>
           </section>
@@ -131,6 +142,18 @@
                 <li class="description">Provided timely and quality website management for preschool website.</li>
                 <li class="description">Initiated and developed enrolled-families section of website for thirty parent users.</li>
                 <li class="link"><a class="url" href="http://lagoonplaygroup.com/" target="_blank">http://lagoonplaygroup.com/</a></li>
+              </ul>
+            </section>
+          </section>
+          <section class="tech">
+            <div class="dates">Jan 2018- May 2018</div>
+            <section class="certifications">
+              <span class="title">Volunteer</span>
+              <span class="institution">Justice Democrats</span>
+              <span class="city">Long Beach, California</span>
+              <ul class="duties">
+                <li class="description">Made phone calls to potential voters in support of the organization's candidates.</li>
+                <li class="description">Attended phonebank with other volunteers.</li>
               </ul>
             </section>
           </section>
