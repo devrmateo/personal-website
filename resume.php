@@ -24,7 +24,7 @@
                   <li>Utilize my skills with React Native, Firebase, and Git to build front-end and back-end features on an AirB&B-type app for political campaign volunteers.</li>
                   <li>Participate in pair programming sessions and weekly meetings with teammates.</li>
                   <div>GitLab: <a class="url" href="https://gitlab.com/devrmateo" target="_blank">https://gitlab.com/devrmateo</a></div>
-                  <div>(In App/Google Play stores late November 2019)</div>
+                  <div>(In App/Google Play stores December 2019)</div>
                 </ul>
               </div>
             </section>
