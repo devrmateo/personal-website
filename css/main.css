@@ -389,6 +389,12 @@ li {
   margin-left: 0;
 }
 
+.organization {
+  padding-left: 0;
+  color: #1a83b9;
+  word-wrap: break-word;
+}
+
 .dissTitle {
   font-style: italic;
 }
