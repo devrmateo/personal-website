@@ -248,33 +248,9 @@ footer {
   margin-top: 1em;
 }
 
-.icon {
-  font-size: 150%;
-}
-
-.copyValidators {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  width: 100%;
-  margin-top: 1em;
-  padding-right: 1em;
-}
-
-.validatorLink {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-right: 1em;
-}
-
-.validatorImage {
-  width: 4rem;
-  max-width: 100%;
-}
-
 .copyright {
-  margin: 1em 0 1em 1em;
+  flex-basis: 100%;
+  margin: 1.75em 0 1em 1em;
 }
 
 /*--------------------Resume styles--------------------*/
