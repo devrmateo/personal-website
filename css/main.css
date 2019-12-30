@@ -248,6 +248,11 @@ footer {
   margin-top: 1em;
 }
 
+.sr-only {
+  position: absolute;
+  left: -1000;
+}
+
 .copyright {
   flex-basis: 100%;
   margin: 1.75em 0 1em 1em;
