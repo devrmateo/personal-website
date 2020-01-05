@@ -18,13 +18,12 @@
           <section class="tech project">
             <div class="dates">Nov 2019</div>
             <section class="projectInfo">
-              <div class="projectTitle">BernieBnB</div>
+              <div class="projectTitle"><a class="projectLink" href="https://github.com/CodersForBernieSanders/BernieBnB#download" target="_blank">BernieBnB</a></div>
               <div class="projectDesc">
                 <ul>
-                  <li>Utilize my skills with React Native, Firebase, and Git to build front-end and back-end features on an AirB&B-type app for political campaign volunteers.</li>
+                  <li>Utilize my skills with React Native, Firebase, and Git to build front-end and back-end features on an AirB&B-type app for political campaign staff and volunteers.</li>
                   <li>Participate in pair programming sessions and weekly meetings with teammates.</li>
                   <div>GitLab: <a class="url" href="https://gitlab.com/devrmateo" target="_blank">https://gitlab.com/devrmateo</a></div>
-                  <div>(In App/Google Play stores December 2019)</div>
                 </ul>
               </div>
             </section>
@@ -103,7 +102,7 @@
               <span class="institution">Bernie Sanders 2020</span>
               <span class="city">Agoura Hills, CA</span>
               <ul class="duties">
-                <li class="description">Communicate with potential voters through community canvasses and on the phone.</li>
+                <li class="description">Communicate with potential voters through community canvasses and on the phone in both English and Spanish.</li>
                 <li>Lead community canvasses by organizing a staging area and training volunteers.</li>
               </ul>
             </section>
