@@ -11,4 +11,4 @@
   <a href="https://twitter.com/devrmateo" target="_blank"><i class="fab fa-twitter fa-lg" aria-hidden="true" title="Twitter"></i><span class="sr-only">Twitter</span></a>
 </div>
 
-  <div class="copyright">© 2019 Matthew Price Smith</div>
+  <div class="copyright">© 2020 Matthew Price Smith</div>
