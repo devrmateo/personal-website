@@ -13,7 +13,7 @@
         </section>
         <section class="content extendedContent">
           <h2>Resume</h2>
-          <div class="summary">I am a Full Stack Developer and Progressive Activist. In addition, I am a talented problem solver, critical thinker, and communicator, aided by my previous experience as a college-level Spanish instructor.</div>
+          <div class="summary">I am a Full Stack Developer and Left-Wing Activist. In addition, I am a talented problem solver, critical thinker, and communicator, aided by my previous experience as a college-level Spanish instructor.</div>
           <h3 class="sectionHeader">Projects</h3>
           <section class="tech project">
             <div class="dates">Nov 2019</div>
