@@ -13,10 +13,10 @@
         </section>
         <section class="content extendedContent">
           <h2>Resume</h2>
-          <div class="summary">I am a Full Stack Developer for the Political Revolution. In addition, I am a talented problem solver, critical thinker, and communicator, aided by my previous experience as a college-level Spanish instructor.</div>
+          <div class="summary">I am a Full Stack Developer working to advance the progressive political movement in the United States. In addition, I am a talented problem solver, critical thinker, and communicator, aided by my previous experience as a college-level Spanish instructor.</div>
           <h3 class="sectionHeader">Projects</h3>
           <section class="tech project">
-            <div class="dates">Nov 2019</div>
+            <div class="dates">June 2019 - Present</div>
             <section class="projectInfo">
               <div class="projectTitle"><a class="projectLink" href="https://github.com/CodersForBernieSanders/BernieBnB#download" target="_blank">BernieBnB</a></div>
               <div class="projectDesc">
