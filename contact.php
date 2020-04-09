@@ -10,7 +10,7 @@
       //If email is valid, send email
       //Set email error message to a blank string, so it will not fire an "undefined" message.
 
-      $myEmail = "webdevmateo@gmail.com";
+      $myEmail = "devrmateo@gmail.com";
       $to = $myEmail;
       $firstName = $_POST["firstName"];
       $lastName = $_POST["lastName"];
@@ -60,10 +60,10 @@
             </div>
             <div class="formGroup">
               <label for="comments">Comments:</label>
-              <textarea name="comments" rows="5" placeholder="Please get in touch." required></textarea>
+              <textarea name="comments" rows="5" placeholder="Please leave any comments here." required></textarea>
             </div>
             <button type="submit" name="submit">Submit</button>
-            <div class="contactEmail">You can also email me directly at: <a class="email" href="mailto:webdevmateo@gmail.com">webdevmateo@gmail.com</a></div>
+            <div class="contactEmail">You can also email me directly at: <a class="email" href="mailto:devrmateo@gmail.com">devrmateo@gmail.com</a></div>
           </form>
         </section>
       </main>
