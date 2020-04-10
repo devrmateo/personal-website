@@ -1,7 +1,7 @@
 <nav class="footerNav">
   <a href="index.php" class="footerNavLink">Home</a>
-  <a href="myStory.php" class="footerNavLink">My Story</a>
   <a href="resume.php" class="footerNavLink">Resume</a>
+  <a href="myStory.php" class="footerNavLink">My Story</a>
   <a href="contact.php" class="footerNavLink">Contact</a>
 </nav>
 <div class="social">
