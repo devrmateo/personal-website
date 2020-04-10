@@ -98,24 +98,24 @@
           <section class="tech">
             <div class="dates">June 2019 - Present</div>
             <section class="certifications">
-              <span class="title">Campaign Volunteer</span>
-              <span class="institution">Bernie Sanders 2020</span>
-              <span class="city">Agoura Hills, CA</span>
-              <ul class="duties">
-                <li class="description">Communicate with potential voters through community canvasses and on the phone in both English and Spanish.</li>
-                <li>Lead community canvasses by organizing a staging area and training volunteers.</li>
-              </ul>
-            </section>
-          </section>
-          <section class="tech">
-            <div class="dates">June 2019 - Present</div>
-            <section class="certifications">
               <span class="title">Volunteer Full Stack Developer</span>
               <span class="institution"><a class="organization" href="https://github.com/CodersForBernieSanders/BernieBnB" target="_blank">Coders For Bernie Sanders</a></span>
               <span class="city">Remote</span>
               <ul class="duties">
                 <li class="description">Build front-end and back-end features on web development projects in service to a political campaign.</li>
                 <li>Collaborate with a team of seven developers in an agile environment.</li>
+              </ul>
+            </section>
+          </section>
+          <section class="tech">
+            <div class="dates">June 2019 - April 2020</div>
+            <section class="certifications">
+              <span class="title">Campaign Volunteer</span>
+              <span class="institution">Bernie Sanders 2020</span>
+              <span class="city">Agoura Hills, CA</span>
+              <ul class="duties">
+                <li class="description">Communicated with potential voters through community canvasses and on the phone in both English and Spanish.</li>
+                <li>Lead community canvasses by organizing a staging area and training volunteers.</li>
               </ul>
             </section>
           </section>
