@@ -16,13 +16,13 @@
           <div class="summary">I am a Full Stack Developer working to advance the progressive political agenda in the United States. In addition, I am a talented problem solver, critical thinker, and communicator, aided by my previous experience as a college-level Spanish instructor.</div>
           <h3 class="sectionHeader">Projects</h3>
           <section class="tech project">
-            <div class="dates">June 2019 - Present</div>
+            <div class="dates">June 2019 - April 2020</div>
             <section class="projectInfo">
               <div class="projectTitle"><a class="projectLink" href="https://github.com/CodersForBernieSanders/BernieBnB#download" target="_blank">BernieBnB</a></div>
               <div class="projectDesc">
                 <ul>
-                  <li>Utilize my skills with React Native, Firebase, and Git to build front-end and back-end features on an AirB&B-type app for political campaign staff and volunteers.</li>
-                  <li>Participate in pair programming sessions and weekly meetings with teammates.</li>
+                  <li>Utilized my skills with React Native, Firebase, and Git to build front-end and back-end features on an AirB&B-type app for political campaign staff and volunteers.</li>
+                  <li>Participated in pair programming sessions and weekly meetings with teammates.</li>
                   <div>GitLab: <a class="url" href="https://gitlab.com/devrmateo" target="_blank">https://gitlab.com/devrmateo</a></div>
                 </ul>
               </div>
@@ -96,14 +96,14 @@
           </section>
           <h3 class="sectionHeader">Experience</h3>
           <section class="tech">
-            <div class="dates">June 2019 - Present</div>
+            <div class="dates">June 2019 - April 2020</div>
             <section class="certifications">
               <span class="title">Volunteer Full Stack Developer</span>
               <span class="institution"><a class="organization" href="https://github.com/CodersForBernieSanders/BernieBnB" target="_blank">Coders For Bernie Sanders</a></span>
               <span class="city">Remote</span>
               <ul class="duties">
-                <li class="description">Build front-end and back-end features on web development projects in service to a political campaign.</li>
-                <li>Collaborate with a team of seven developers in an agile environment.</li>
+                <li class="description">Built front-end and back-end features on web development projects in service to a political campaign.</li>
+                <li>Collaborated with a team of seven developers in an agile environment.</li>
               </ul>
             </section>
           </section>
