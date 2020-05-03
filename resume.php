@@ -96,14 +96,14 @@
           </section>
           <h3 class="sectionHeader">Experience</h3>
           <section class="tech">
-            <div class="dates">June 2019 - April 2020</div>
+            <div class="dates">June 2019 - Present</div>
             <section class="certifications">
               <span class="title">Volunteer Full Stack Developer</span>
               <span class="institution"><a class="organization" href="https://github.com/CodersForBernieSanders/BernieBnB" target="_blank">Coders For Bernie Sanders</a></span>
               <span class="city">Remote</span>
               <ul class="duties">
-                <li class="description">Built front-end and back-end features on web development projects in service to a political campaign.</li>
-                <li>Collaborated with a team of seven developers in an agile environment.</li>
+                <li class="description">Build front-end and back-end features on web development projects in service to a political campaign.</li>
+                <li>Collaborate with a team of seven developers in an agile environment.</li>
               </ul>
             </section>
           </section>
