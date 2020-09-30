@@ -26,7 +26,7 @@
             <ul class="related">
               <li class="relatedLi"><a class="subNavLink" href="https://github.com/CodersForBernieSanders/BernieBnB" target="_blank">BernieBnB</a></li>
                <li class="relatedLi"><a class="subNavLink" href="https://medium.com/udacity/my-journey-from-spanish-instructor-to-web-developer-went-through-udacity-f18e522b2406" target="_blank">My Journey from Spanish Instructor to Web Developer With Udacity</a></li>
-              <li class="relatedLi"><a class="subNavLink" href="https://hbr.org/2017/07/liberal-arts-in-the-data-age" target="_blank">Liberal Arts Majors Are the Future of the Tech Industry</a>
+              <li class="relatedLi"><a class="subNavLink small" href="https://hbr.org/2017/07/liberal-arts-in-the-data-age" target="_blank">Liberal Arts Majors Are the Future of the Tech Industry</a>
               <small>–Harvard Business Review</small>
               </li>
             </ul>
