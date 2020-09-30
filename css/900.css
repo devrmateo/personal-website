@@ -44,6 +44,12 @@
   padding-top: 4em;
 }
 
+.subNavLink {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  min-height: 0;
+}
+ 
 .subNavLink:hover {
   color: #fb7725;
 }
@@ -114,6 +120,7 @@
 small {
   text-align: left;
   color: #34355a;
+  padding: 0 0 5px 0;
 }
 
 
