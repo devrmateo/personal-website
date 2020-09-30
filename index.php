@@ -14,7 +14,7 @@
         <section class="content index">
           <h2>Full Stack Developer for the Political Revolution</h2>
           <div class="image">
-            <img class="profile" src="images/profile.jpg">
+            <img class="profile" src="images/profile.jpeg">
           </div>
           <p class="first">I am a Full Stack Developer working to advance the progressive political agenda in the United States.  My principal skills include React, Redux, React Native and Firebase.  Before becoming a web developer, I taught college Spanish for almost twenty years. My experience in the humanities lends me a unique insight into the tech world (see the link in the "Related" section).</p>
           <p>My transition from the field of higher education to that of web development took approximately three years to complete. It began in 2016, when I completed Udacity's Intro to Programming Nanodegree, and culminated in 2019, when I completed the Front-End Web Developer and React Nanodegrees.  I was fortunate to have earned a scholarship through the Grow With Google Initiative to the Front-End Web Developer Nanodegree. During this program, I wrote about my career transition in a Medium blog post (see the link in the "Related" section), and earned another scholarship to the React Nanodegree.</p>
