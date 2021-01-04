@@ -16,6 +16,18 @@
           <div class="summary">I am a Full Stack Developer working to advance the progressive political agenda in the United States. In addition, I am a talented problem solver, critical thinker, and communicator, aided by my previous experience as a college-level Spanish instructor.</div>
           <h3 class="sectionHeader">Projects</h3>
           <section class="tech project">
+            <div class="dates">Oct 2020 - Present</div>
+            <section class="projectInfo">
+              <div class="projectTitle"><a class="projectLink" href="https://optout.substack.com/" target="_blank">OptOut</a></div>
+              <div class="projectDesc">
+                <ul>
+                  <li>Build front-end features for a non-profit news aggregator app.</li>
+                  <li>Collaborate with front-end lead and other teammates to ensure quality and timely updates to the app.</li>
+                </ul>
+              </div>
+            </section>
+          </section>
+          <section class="tech project">
             <div class="dates">June 2019 - April 2020</div>
             <section class="projectInfo">
               <div class="projectTitle"><a class="projectLink" href="https://github.com/CodersForBernieSanders/BernieBnB#download" target="_blank">BernieBnB</a></div>
@@ -96,14 +108,26 @@
           </section>
           <h3 class="sectionHeader">Experience</h3>
           <section class="tech">
-            <div class="dates">June 2019 - Present</div>
+            <div class="dates">Oct 2019 - Present</div>
+            <section class="certifications">
+              <span class="title">Front End Developer</span>
+              <span class="institution"><a class="organization" href="https://optout.substack.com/" target="_blank">OptOut</a></span>
+              <span class="city">Remote</span>
+              <ul class="duties">
+                <li class="description">Build front-end features for a non-profit news aggregator app.</li>
+                <li>Collaborate with front-end lead and other teammates to ensure quality and timely updates to the app.</li>
+              </ul>
+            </section>
+          </section>
+          <section class="tech">
+            <div class="dates">June 2019 - March 2020</div>
             <section class="certifications">
               <span class="title">Volunteer Full Stack Developer</span>
               <span class="institution"><a class="organization" href="https://github.com/CodersForBernieSanders/BernieBnB" target="_blank">Coders For Bernie Sanders</a></span>
               <span class="city">Remote</span>
               <ul class="duties">
-                <li class="description">Build front-end and back-end features on web development projects in service to a political campaign.</li>
-                <li>Collaborate with a team of seven developers in an agile environment.</li>
+                <li class="description">Built front-end and back-end features on web development projects in service to a political campaign.</li>
+                <li>Collaborated with a team of seven developers in an agile environment.</li>
               </ul>
             </section>
           </section>
