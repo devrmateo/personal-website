@@ -18,11 +18,11 @@
           <section class="tech project">
             <div class="dates">Oct 2020 - Present</div>
             <section class="projectInfo">
-              <div class="projectTitle"><a class="projectLink" href="https://optout.substack.com/" target="_blank">OptOut</a></div>
+              <div class="projectTitle"><a class="projectLink" href="https://www.optoutnews.org/" target="_blank">OptOut</a></div>
               <div class="projectDesc">
                 <ul>
-                  <li>Build front-end features for a non-profit news aggregator app.</li>
-                  <li>Collaborate with front-end lead and other teammates to ensure quality and timely updates to the app.</li>
+                  <li>Utilize my skills with React Native, Redux, and Git to build front-end features for a non-profit news aggregator app.</li>
+                  <li>Participate in weekly meetings with teammates.</li>
                 </ul>
               </div>
             </section>
@@ -111,10 +111,10 @@
             <div class="dates">Oct 2019 - Present</div>
             <section class="certifications">
               <span class="title">Front End Developer</span>
-              <span class="institution"><a class="organization" href="https://optout.substack.com/" target="_blank">OptOut</a></span>
+              <span class="institution"><a class="organization" href="https://www.optoutnews.org/" target="_blank">OptOut</a></span>
               <span class="city">Remote</span>
               <ul class="duties">
-                <li class="description">Build front-end features for a non-profit news aggregator app.</li>
+                <li class="description">Build front-end features as a volunteer developer for a non-profit news aggregator app.</li>
                 <li>Collaborate with front-end lead and other teammates to ensure quality and timely updates to the app.</li>
               </ul>
             </section>
@@ -126,7 +126,7 @@
               <span class="institution"><a class="organization" href="https://github.com/CodersForBernieSanders/BernieBnB" target="_blank">Coders For Bernie Sanders</a></span>
               <span class="city">Remote</span>
               <ul class="duties">
-                <li class="description">Built front-end and back-end features on web development projects in service to a political campaign.</li>
+                <li class="description">Built front-end and back-end features as a volunteer developer in service to a political campaign.</li>
                 <li>Collaborated with a team of seven developers in an agile environment.</li>
               </ul>
             </section>
