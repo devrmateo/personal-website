@@ -13,7 +13,7 @@
         </section>
         <section class="content extendedContent">
           <h2>Resume</h2>
-          <div class="summary">I am a Full Stack Developer working to advance the progressive political agenda in the United States. In addition, I am a talented problem solver, critical thinker, and communicator, aided by my previous experience as a college-level Spanish instructor.</div>
+          <div class="summary">I am a Front-End Developer working to advance the progressive political agenda in the United States. In addition, I am a talented problem solver, critical thinker, and communicator, aided by my previous experience as a college-level Spanish instructor.</div>
           <h3 class="sectionHeader">Projects</h3>
           <section class="tech project">
             <div class="dates">Oct 2020 - Present</div>
@@ -110,7 +110,7 @@
           <section class="tech">
             <div class="dates">Oct 2019 - Present</div>
             <section class="certifications">
-              <span class="title">Front End Developer</span>
+              <span class="title">Front-End Developer</span>
               <span class="institution"><a class="organization" href="https://www.optoutnews.org/" target="_blank">OptOut</a></span>
               <span class="city">Remote</span>
               <ul class="duties">
@@ -122,7 +122,7 @@
           <section class="tech">
             <div class="dates">June 2019 - March 2020</div>
             <section class="certifications">
-              <span class="title">Volunteer Full Stack Developer</span>
+              <span class="title">Full-Stack Developer</span>
               <span class="institution"><a class="organization" href="https://github.com/CodersForBernieSanders/BernieBnB" target="_blank">Coders For Bernie Sanders</a></span>
               <span class="city">Remote</span>
               <ul class="duties">
