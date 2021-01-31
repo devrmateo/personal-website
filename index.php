@@ -12,7 +12,7 @@
           <?php include "includes/nav.php";?>
         </section>
         <section class="content index">
-          <h2>Front-End Developer at OptOut News</h2>
+          <h2>Front-End Developer</h2>
           <div class="image">
             <img class="profile" src="images/profile.jpeg">
           </div>

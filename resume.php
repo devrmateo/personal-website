@@ -59,8 +59,8 @@
               <div class="projectTitle"><a class="projectLink" href="projects/wouldYouRather" target="_blank">Would You Rather App</a></div>
               <div class="projectDesc">
                 <ul>
-                  <li>Built online version of popular “Would You Rather” game using React and Redux.</li>
-                  <li>Leveraged Redux for state management and React for UI display.</li>
+                  <li>Built online version of popular “Would You Rather” game from scratch.</li>
+                  <li>Leveraged React for UI and Redux for state management.</li>
                   <li class="gitHub"><a class="url" href="https://github.com/devrmateo/would-you-rather" target="_blank">https://github.com/devrmateo/would-you-rather</a></li>
                 </ul>
               </div>
@@ -162,7 +162,7 @@
               <span class="institution">Lagoon Playgroup</span>
               <span class="city">Long Beach, California</span>
               <ul class="duties">
-                <li class="description">Provided timely and quality website management for preschool website.</li>
+                <li class="description">Provided timely and quality website management for preschool website built with WordPress.</li>
                 <li class="description">Initiated and developed enrolled-families section of website for thirty parent users.</li>
                 <li class="link"><a class="url" href="http://lagoonplaygroup.com/" target="_blank">http://lagoonplaygroup.com/</a></li>
               </ul>
