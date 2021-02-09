@@ -42,7 +42,7 @@
           <?php include "includes/nav.php";?>
         </section>
         <section class="content extendedContent">
-          <h2>Get In Touch</h2>
+          <h2>Contact</h2>
           <?php echo $received; ?>
           <form method="post">
             <div class="formGroup">
@@ -60,12 +60,12 @@
             </div>
             <div class="formGroup">
               <label for="comments">Comments:</label>
-              <textarea name="comments" rows="5" placeholder="Please leave any comments here." required></textarea>
+              <textarea name="comments" rows="6" placeholder="Please leave any comments, questions, or concerns here." required></textarea>
             </div>
             <button type="submit" name="submit">Submit</button>
-            <div class="contactEmail">You can also email me directly at: <a class="email" href="mailto:devrmateo@gmail.com">devrmateo@gmail.com</a></div>
           </form>
         </section>
+        <div class="contactEmail">Email: <a class="email" href="mailto:devrmateo@gmail.com">devrmateo@gmail.com</a></div>
       </main>
       <footer>
         <?php include "includes/footer.php" ?>

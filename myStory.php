@@ -11,7 +11,7 @@
         <section class="mainNavPanel">
           <?php include "includes/nav.php";?>
         </section>
-        <section class="content">
+        <section class="content extendedContent">
           <h2>My Story</h2>
           <div>
             <h3>Beginnings with Web Development</h3>

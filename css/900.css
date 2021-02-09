@@ -28,16 +28,6 @@
   justify-content: flex-start;
 }
 
-.image {
-  width: 30%;
-  align-self: center;
-  padding-left: 1em;
-}
-
-.first {
-  width: 70%;
-}
-
 .subNavPanel {
   background-color: #ffffff;
   color: #1a83b9;
@@ -48,8 +38,9 @@
   padding-top: 5px;
   padding-bottom: 5px;
   min-height: 0;
+  font-size: calc(10px + 1vh);
 }
- 
+
 .subNavLink:hover {
   color: #fb7725;
 }
@@ -66,7 +57,7 @@
 }
 
 .mainNavLink {
-  font-size: 120%;
+  font-size: calc(16px + 1vh);
   width: 100%;
 }
 
@@ -105,6 +96,8 @@
 
 .related {
   list-style-type: disc;
+  padding: 0;
+
 }
 
 .relatedLi {
@@ -122,6 +115,3 @@ small {
   color: #34355a;
   padding: 0 0 5px 0;
 }
-
-
-

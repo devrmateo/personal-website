@@ -1,7 +1,3 @@
-/** {
-    outline: 1px solid red !important;
-}*/
-
 * {
   box-sizing: border-box;
 }
@@ -15,7 +11,11 @@ body {
   margin: 0;
   padding: 0;
   font-family: arial, helvetica, sans-serif;
-  line-height: 1.5em;
+  line-height: 2;
+}
+
+section, div, p, span, a, li, label, button {
+  font-size: calc(14px + 1vh);
 }
 
 .wrapper {
@@ -52,6 +52,16 @@ h1 {
   line-height: 1em;
 }
 
+@media screen and (max-width: 375px) {
+  .fa-bars {
+    font-size: 1.5em;
+  }
+}
+
+.headerLink {
+  font-size: calc(30px + 1vh);
+}
+
 .headerLink:hover {
   color: #ffffff;
   opacity: .9;
@@ -68,21 +78,24 @@ header, main, .mainNavPanel, .content, .subNavPanel, footer {
 
 /*--------------------Responsive Nav Styling--------------------*/
 
+.fa-bars {
+  position: absolute;
+}
+
 .drawer {
   width: 250px;
   position: absolute;
-  -webkit-transform: translate(-250px, 0);
   transform: translate(-250px, 0);
 }
 
 .open {
-  -webkit-transform: translate(0, 0);
   transform: translate(0, 0);
   background-color: #55586b;
 }
 
 .mainNavLink {
   display: block;
+  font-size: calc(16px + 1vh)
 }
 
 .mainNavLink:hover {
@@ -112,23 +125,27 @@ a:hover {
   align-items: flex-start;
   width: 100%;
   padding: 1em;
+  padding-left: .5em;
+  padding-right: .5em;
   color: #5a5050;
 }
 
 h2 {
-  font-size: 125%;
+  font-size: calc(25px + 1vh);
   text-align: center;
-  margin-top: 1em;
+  margin-top: .5em;
+  margin-bottom: .5em;
   color: #34355a;
   width: 100%;
 }
 
 .image {
   width: 100%;
+  margin-bottom: 1.5em;
 }
 
 .profile {
-  width: 9rem;
+  width: calc(275px + 1vw);
   max-width: 100%;
   display: block;
   margin: 0 auto;
@@ -136,11 +153,13 @@ h2 {
 }
 
 h3 {
-  font-size: 100%;
+  font-size: calc(18px + 1vh);
   color: #34355a;
-  margin-left: 1em;
+  margin-left: .8em;
   margin-right: auto;
-  margin-bottom: 0;
+  margin-bottom: .5em;
+  line-height: 1.35;
+  width: 95%;
 }
 
 h4 {
@@ -150,19 +169,12 @@ h4 {
   color: #34355a;
 }
 
-.midPageHeader {
-  margin-top: 1em;
-  margin-bottom: 1em;
-}
-
 p {
   padding: 0 1em;
   max-width: 65ch;
   margin-top: .5em;
   margin-bottom: .5em;
-}
-
-p.story {
+  line-height: 1.75;
   text-indent: 1.5em;
 }
 
@@ -183,18 +195,12 @@ p.story {
 .subNavHeader {
   margin-bottom: 1em;
   color: #ffffff;
-}
-
-.subNavSubHeader {
-  width: 100%;
-  font-size: 100%;
-  text-align: center;
-  color: #fb7725;
-  margin: 0;
+  font-size: 22px;
 }
 
 .related {
   list-style-type: none;
+  padding: 0 2em;
 }
 
 .relatedLi {
@@ -204,24 +210,10 @@ p.story {
 .subNavLink {
   display: block;
   text-align: center;
-  font-size: 90%;
 }
 
 .subNavLink:hover {
   color: #b2cde0;
-}
-
-.small {
-  min-height: 0;
-  padding-bottom: 0;
-}
-
-small {
-  display: block;
-  text-align: center;
-  line-height: 1em;
-  padding-top: 5px;
-  padding-bottom: 5px;
 }
 
 /*--------------------Footer--------------------*/
@@ -237,7 +229,6 @@ footer {
   border-bottom-left-radius: inherit;
   border-bottom-right-radius: inherit;
   color: #ffffff;
-  font-size: 90%;
 }
 
 .footerNav {
@@ -245,8 +236,9 @@ footer {
   margin-top: 1em;
 }
 
-.footerNavLink {
+.footerNavLink, .socialLink, .copyright {
   display: inline-block;
+  font-size: calc(10px + 1vh);
 }
 
 .footerNavLink:hover {
@@ -259,48 +251,37 @@ footer {
 
 .sr-only {
   position: absolute;
-  left: -1000;
+  left: -1000px;
 }
 
 .copyright {
   flex-basis: 100%;
-  margin: 1.75em 0 1em 1em;
+  margin: 1.75em 0 1em 0;
 }
 
 /*--------------------Resume styles--------------------*/
 
 .summary {
+  text-indent: 0;
   font-style: italic;
   text-align: center;
+  line-height: 1.75;
 }
 
-.academic, .teaching, .service, .profesional, .international, .tech, .dissertation {
+.projectTitle, .dates, .projectDesc, .title, .tech, .institution, .city, .skills {
+  line-height: 1.5;
+}
+
+.resumeSection {
   display: flex;
   width: 100%;
   margin-bottom: 1em;
   padding: 0 1em;
 }
 
-.otherSkills {
-  width: 100%;
-  padding-left: 1em;
-}
-
 @media screen and (min-width: 700px) {
   .otherSkills {
-    padding-left: 0;
-  }
-
-  .skills {
-    display: inline-block;
-    width: 300px;
-  }
-
-  .skills::before {
-    content: "\2022";
-    margin-right: .5em;
-    font-size: 1.3em;
-    vertical-align: middle;
+    padding-left: 1em;
   }
 }
 
@@ -314,6 +295,10 @@ footer {
   margin-bottom: 1em;
   margin-left: 2em;
   width: 55%;
+}
+
+.degreeInst, .degree, .projectLink, .certifications {
+  line-height: 1.25;
 }
 
 .projectLink {
@@ -330,6 +315,10 @@ footer {
   width: 100%;
 }
 
+.description {
+  line-height: 1.65;
+}
+
 .sectionHeader {
   margin: 1em 0 1em 1em;
   padding-bottom: .25em;
@@ -338,7 +327,7 @@ footer {
   border-bottom: 1px solid #9799a2;
 }
 
-.section, .sectionHeader {
+.sectionHeader {
   color: #5a5050;
 }
 
@@ -352,7 +341,7 @@ footer {
   width: 55%;
 }
 
-.degree, .institution, .city, .duties, .advisor {
+.degree, .institution, .city, .duties {
   display: block;
 }
 
@@ -363,6 +352,10 @@ footer {
 
 .degree, .title {
   font-weight: bold;
+}
+
+.title, .institution, .organization, .city {
+  display: block;
 }
 
 ul {
@@ -376,6 +369,9 @@ li {
 
 .link {
   list-style-type: none;
+}
+
+.link, .gitHub {
   margin-left: 0;
 }
 
@@ -383,10 +379,6 @@ li {
   padding-left: 0;
   color: #1a83b9;
   word-wrap: break-word;
-}
-
-.dissTitle {
-  font-style: italic;
 }
 
 .url {
@@ -407,6 +399,10 @@ li {
   content: "Url:";
 }
 
+.url, .gitHub, .link {
+  line-height: 1.25;
+}
+
 /*--------------------Contact page--------------------*/
 
 form {
@@ -424,7 +420,9 @@ form {
   align-content: flex-start;
   width: 100%;
   margin-bottom: 1em;
+  line-height: 1.5;
 }
+
 .formGroup, button {
   min-height: 30px;
 }
@@ -452,15 +450,19 @@ input, .received, .emailError {
 .emailError {
   margin-left: 125px;
   padding-left: .5em;
-}
-
-.emailError {
   background-color: #e69d9d;
   color: #c13f3d;
 }
 
 textarea {
   resize: vertical;
+  padding-top: .5em;
+  padding-left: .5em;
+}
+
+::placeholder {
+  font-size: calc(10px + 1vh);
+  font-family: arial, helvetica, sans-serif;
 }
 
 input, textarea, .emailError {
@@ -472,19 +474,24 @@ button {
   cursor: pointer;
   color: #ffffff;
   background-color: #172b5c;
-  width: 75px;
+  width: 100px;
+  height: 40px;
   border: none;
-  border-radius: 3px;
+  border-radius: 5px;
   box-shadow: 12px 15px 20px rgba(0, 0, 0, 0.1);
 }
 
 .contactEmail {
-  flex-basis: 100%;
-  margin-top: 2em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 2em;
+  line-height: 1.25;
+  color: #5a5050;
 }
 
 .email {
   color: #5a5050;
+  padding-left: 0;
 }
 
 .email:hover {

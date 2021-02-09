@@ -13,93 +13,92 @@
         </section>
         <section class="content extendedContent">
           <h2>Resume</h2>
-          <div class="summary">I am a Front-End Developer working to advance the progressive political agenda in the United States. In addition, I am a talented problem solver, critical thinker, and communicator, aided by my previous experience as a college-level Spanish instructor.</div>
+          <p class="summary">I am a Front-End Developer working to advance the progressive political agenda in the United States. In addition, I am a talented problem solver, critical thinker, and communicator, aided by my previous experience as a college-level Spanish instructor.</p>
           <h3 class="sectionHeader">Projects</h3>
-          <section class="tech project">
+          <section class="resumeSection project">
             <div class="dates">Oct 2020 - Present</div>
             <section class="projectInfo">
               <div class="projectTitle"><a class="projectLink" href="https://www.optoutnews.org/" target="_blank">OptOut</a></div>
               <div class="projectDesc">
                 <ul>
-                  <li>Utilize my skills with React Native, Redux, and Git to build front-end features for a non-profit news aggregator app.</li>
-                  <li>Participate in weekly meetings with teammates.</li>
+                  <li class="description">Utilize my skills with React Native, Redux, and Git to build front-end features for a non-profit news aggregator app.</li>
+                  <li class="description">Participate in weekly meetings with teammates.</li>
                 </ul>
               </div>
             </section>
           </section>
-          <section class="tech project">
+          <section class="resumeSection project">
             <div class="dates">June 2019 - April 2020</div>
             <section class="projectInfo">
               <div class="projectTitle"><a class="projectLink" href="https://github.com/CodersForBernieSanders/BernieBnB#download" target="_blank">BernieBnB</a></div>
               <div class="projectDesc">
                 <ul>
-                  <li>Utilized my skills with React Native, Firebase, and Git to build front-end and back-end features on an AirB&B-type app for political campaign staff and volunteers.</li>
-                  <li>Participated in pair programming sessions and weekly meetings with teammates.</li>
-                  <div>GitLab: <a class="url" href="https://gitlab.com/devrmateo" target="_blank">https://gitlab.com/devrmateo</a></div>
+                  <li class="description">Utilized my skills with React Native, Firebase, and Git to build front-end and back-end features on an AirB&B-type app for political campaign staff and volunteers.</li>
+                  <li class="description">Participated in pair programming sessions and weekly meetings with teammates.</li>
                 </ul>
               </div>
             </section>
           </section>
-          <section class="tech project">
+          <section class="resumeSection project">
             <div class="dates">May 2019</div>
             <section class="projectInfo">
               <div class="projectTitle">Mobile Flashcards</div>
               <div class="projectDesc">
                 <ul>
-                  <li>Created an iOS and Android mobile flashcards application using React Native.</li>
-                  <li>Leveraged Redux and AsyncStorage for data management.</li>
+                  <li class="description">Created an iOS and Android mobile flashcards application using React Native.</li>
+                  <li class="description">Leveraged Redux and AsyncStorage for data management.</li>
                   <li class="gitHub"><a class="url" href="https://github.com/devrmateo/mobile-flashcards" target="_blank">https://github.com/devrmateo/mobile-flashcards</a></li>
                 </ul>
               </div>
             </section>
           </section>
-          <section class="tech project">
+          <section class="resumeSection project">
             <div class="dates">April 2019</div>
             <section class="projectInfo">
               <div class="projectTitle"><a class="projectLink" href="projects/wouldYouRather" target="_blank">Would You Rather App</a></div>
               <div class="projectDesc">
                 <ul>
-                  <li>Built online version of popular “Would You Rather” game from scratch.</li>
-                  <li>Leveraged React for UI and Redux for state management.</li>
+                  <li class="description">Built online version of popular “Would You Rather” game from scratch.</li>
+                  <li class="description">Leveraged React for UI and Redux for state management.</li>
                   <li class="gitHub"><a class="url" href="https://github.com/devrmateo/would-you-rather" target="_blank">https://github.com/devrmateo/would-you-rather</a></li>
                 </ul>
               </div>
             </section>
           </section>
-          <section class="tech project">
+          <section class="resumeSection project">
             <div class="dates">December 2018</div>
             <section class="projectInfo">
               <div class="projectTitle"><a class="projectLink" href="projects/neighborhoodMap" target="_blank">Neighborhood Map</a></div>
               <div class="projectDesc">
                 <ul>
-                  <li>Created an online neighborhood map application using React, the Google Maps JavaScript API, and the FourSquare Places API.</li>
+                  <li class="description">Created an online neighborhood map application using React, the Google Maps JavaScript API, and the FourSquare Places API.</li>
                   <li class="gitHub"><a class="url" href="https://github.com/devrmateo/neighborhood-map-react" target="_blank">https://github.com/devrmateo/neighborhood-map-react</a></li>
 
                 </ul>
               </div>
             </section>
           </section>
-          <section class="tech project">
+          <section class="resumeSection project">
             <div class="dates">November 2018</div>
             <section class="projectInfo">
               <div class="projectTitle"><a class="projectLink" href="projects/myReads/" target="_blank">MyReads - A Book Tracking App</a></div>
               <div class="projectDesc">
                 <ul>
-                  <li>Built an online bookshelf application using React and Udacity's React Nanodegree's Books API.</li>
-                  <li>Leveraged React Router to properly route the application.</li>
+                  <li class="description">Built an online bookshelf application using React and Udacity's React Nanodegree's Books API.</li>
+                  <li class="description">Leveraged React Router to properly route the application.</li>
                   <li class="gitHub"><a class="url" href="https://github.com/devrmateo/my-reads-a-book-tracking-app" target="_blank">https://github.com/devrmateo/my-reads-a-book-tracking-app</a></li>
                 </ul>
             </div>
             </section>
           </section>
-          <section class="tech project">
+          <section class="resumeSection project">
             <div class="dates">October 2018</div>
             <section class="projectInfo">
               <div class="projectTitle"><a class="projectLink" href="projects/restaurantReviews/" target="_blank">Restaurant Reviews</a></div>
               <div class="projectDesc">
                 <ul>
-                  <li>Built restaurant reviews application with a focus on responsive design, accessibility, and offline access.</li>
-                  <li>Utilized media queries, responsive image techniques and a service worker to cache content for offline use.
+                  <li class="description">Built restaurant reviews application with a focus on responsive design, accessibility, and offline access.</li>
+                  <li class="description">Utilized media queries, responsive image techniques and a service worker to cache content for offline use.
                   </li>
                   <li class="gitHub"><a class="url" href="https://github.com/devrmateo/restaurant-reviews-app" target="_blank">https://github.com/devrmateo/restaurant-reviews-app</a></li>
                 </ul>
@@ -107,31 +106,33 @@
             </section>
           </section>
           <h3 class="sectionHeader">Experience</h3>
-          <section class="tech">
+          <section class="resumeSection">
             <div class="dates">Oct 2019 - Present</div>
             <section class="certifications">
               <span class="title">Front-End Developer</span>
-              <span class="institution"><a class="organization" href="https://www.optoutnews.org/" target="_blank">OptOut</a></span>
+              <span class="institution">OptOut</span>
               <span class="city">Remote</span>
               <ul class="duties">
                 <li class="description">Build front-end features as a volunteer developer for a non-profit news aggregator app.</li>
-                <li>Collaborate with front-end lead and other teammates to ensure quality and timely updates to the app.</li>
+                <li class="description">Collaborate with front-end lead and other teammates to ensure quality and timely updates to the app.</li>
+                <li class="link"><a class="url" href="https://www.optoutnews.org/" target="_blank">https://www.optoutnews.org/</a></li>
               </ul>
             </section>
           </section>
-          <section class="tech">
+          <section class="resumeSection">
             <div class="dates">June 2019 - March 2020</div>
             <section class="certifications">
               <span class="title">Full-Stack Developer</span>
-              <span class="institution"><a class="organization" href="https://github.com/CodersForBernieSanders/BernieBnB" target="_blank">Coders For Bernie Sanders</a></span>
+              <span class="institution">Coders For Bernie Sanders</span>
               <span class="city">Remote</span>
               <ul class="duties">
                 <li class="description">Built front-end and back-end features as a volunteer developer in service to a political campaign.</li>
-                <li>Collaborated with a team of seven developers in an agile environment.</li>
+                <li class="description">Collaborated with a team of seven developers in an agile environment.</li>
+                <li class="gitHub"><a class="url" href="https://github.com/CodersForBernieSanders/BernieBnB" target="_blank">https://github.com/CodersForBernieSanders/BernieBnB</a></li>
               </ul>
             </section>
           </section>
-          <section class="tech">
+          <section class="resumeSection">
             <div class="dates">June 2019 - April 2020</div>
             <section class="certifications">
               <span class="title">Campaign Volunteer</span>
@@ -139,11 +140,11 @@
               <span class="city">Agoura Hills, CA</span>
               <ul class="duties">
                 <li class="description">Communicated with potential voters through community canvasses and on the phone in both English and Spanish.</li>
-                <li>Lead community canvasses by organizing a staging area and training volunteers.</li>
+                <li class="description">Lead community canvasses by organizing a staging area and training volunteers.</li>
               </ul>
             </section>
           </section>
-          <section class="tech">
+          <section class="resumeSection">
             <div class="dates">May 2019 - October 2019</div>
             <section class="certifications">
               <span class="title">Independent Consultant</span>
@@ -151,11 +152,11 @@
               <span class="city">Remote</span>
               <ul class="duties">
                 <li class="description">Provided individualized technical support through code reviews and one-on-one virtual calls with students.</li>
-                <li>Served as an individual mentor to a cohort of up to fifty students.</li>
+                <li class="description">Served as an individual mentor to a cohort of up to fifty students.</li>
               </ul>
             </section>
           </section>
-          <section class="tech">
+          <section class="resumeSection">
             <div class="dates">May 2017- June 2018</div>
             <section class="certifications">
               <span class="title">Webmaster</span>
@@ -168,7 +169,7 @@
               </ul>
             </section>
           </section>
-          <section class="tech">
+          <section class="resumeSection">
             <div class="dates">Jan 2018- May 2018</div>
             <section class="certifications">
               <span class="title">Volunteer</span>
@@ -180,7 +181,7 @@
               </ul>
             </section>
           </section>
-          <section class="tech">
+          <section class="resumeSection">
             <div class="dates">May 2006 - August 2009</div>
             <section class="certifications">
               <span class="title">Webmaster</span>
@@ -192,7 +193,7 @@
               </ul>
             </section>
           </section>
-          <section class="tech">
+          <section class="resumeSection">
             <div class="dates">May 2006- August 2009</div>
             <section class="certifications">
               <span class="title">D2L Coordinator</span>
@@ -205,7 +206,7 @@
             </section>
           </section>
           <h3 class="sectionHeader">Education</h3>
-          <section class="academic">
+          <section class="resumeSection">
             <div class="dates">June 2019</div>
             <section class="degreeInst">
               <div>
@@ -214,7 +215,7 @@
               </div>
             </section>
           </section>
-          <section class="academic">
+          <section class="resumeSection">
             <div class="dates">December 2018</div>
             <section class="degreeInst">
               <div>
@@ -223,7 +224,7 @@
               </div>
             </section>
           </section>
-          <section class="academic">
+          <section class="resumeSection">
             <div class="dates">June 2017</div>
             <section class="degreeInst">
               <div>
@@ -232,7 +233,7 @@
               </div>
             </section>
           </section>
-          <section class="academic">
+          <section class="resumeSection">
             <div class="dates">September 2016</div>
             <section class="degreeInst">
               <div>
@@ -241,7 +242,7 @@
               </div>
             </section>
           </section>
-          <section class="academic">
+          <section class="resumeSection">
             <div class="dates">August 2009</div>
             <section class="degreeInst">
               <div>
@@ -251,7 +252,7 @@
  -->              </div>
             </section>
           </section>
-          <section class="academic">
+          <section class="resumeSection">
             <div class="dates">May 2003</div>
             <section class="degreeInst">
               <div>
@@ -261,7 +262,7 @@
               </div>
             </section>
           </section>
-          <section class="academic">
+          <section class="resumeSection">
             <div class="dates">May 1999</div>
             <section class="degreeInst">
               <div>
@@ -271,7 +272,7 @@
               </div>
             </section>
           </section>
-          <section class="academic">
+          <section class="resumeSection">
             <div class="dates">May 1995</div>
             <section class="degreeInst">
                 <span class="degree">Bachelor of Science in Business Administration</span>
@@ -280,44 +281,44 @@
             </section>
           </section>
           <h3 class="sectionHeader">Certifications</h3>
-          <section class="tech">
+          <section class="resumeSection">
             <div class="dates">December 2016</div>
             <section class="certifications">
               <a class="projectLink" href="https://matthewpricesmith.com/files/html.pdf" target="_blank">HTML – Level 1 Certification</a>
             </section>
           </section>
-          <section class="tech">
+          <section class="resumeSection">
             <div class="dates">December 2016</div>
             <section class="certifications">
               <a class="projectLink" href="https://matthewpricesmith.com/files/css.pdf" target="_blank">CSS – Level 1 Certification</a>
             </section>
           </section>
-          <section class="tech">
+          <section class="resumeSection">
             <div class="dates">December 2016</div>
             <section class="certifications">
               <a class="projectLink" href="https://matthewpricesmith.com/files/javascript.pdf" target="_blank">JavaScript – Level 1 Certification</a>
             </section>
           </section>
-          <section class="tech">
+          <section class="resumeSection">
             <div class="dates">January 2017</div>
             <section class="certifications">
               <a class="projectLink" href="https://matthewpricesmith.com/files/jquery.pdf" target="_blank">jQuery – Level 1 Certification</a>
             </section>
           </section>
-          <section class="tech">
+          <section class="resumeSection">
             <div class="dates">March 2017</div>
             <section class="certifications">
               <a class="projectLink" href="https://matthewpricesmith.com/files/php.pdf" target="_blank">PHP – Level 1 Certification</a>
             </section>
           </section>
-          <section class="tech">
+          <section class="resumeSection">
             <div class="dates">June 2017</div>
             <section class="certifications">
               <a class="projectLink" href="https://matthewpricesmith.com/files/mysql.pdf" target="_blank">MySQL – Level 1 Certification</a>
             </section>
           </section>
           <h3 class="sectionHeader">Other Technical Skills</h3>
-          <section class="otherSkills">
+          <section class="resumeSection">
             <ul>
               <li class="skills">Object-Oriented Programming</li>
               <li class="skills">Responsive Web Design</li>
