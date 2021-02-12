@@ -28,7 +28,7 @@
             </section>
           </section>
           <section class="resumeSection project">
-            <div class="dates">June 2019 - April 2020</div>
+            <div class="dates">Jun 2019 - Apr 2020</div>
             <section class="projectInfo">
               <div class="projectTitle"><a class="projectLink" href="https://github.com/CodersForBernieSanders/BernieBnB#download" target="_blank">BernieBnB</a></div>
               <div class="projectDesc">
@@ -53,7 +53,7 @@
             </section>
           </section>
           <section class="resumeSection project">
-            <div class="dates">April 2019</div>
+            <div class="dates">Apr 2019</div>
             <section class="projectInfo">
               <div class="projectTitle"><a class="projectLink" href="projects/wouldYouRather" target="_blank">Would You Rather App</a></div>
               <div class="projectDesc">
@@ -66,7 +66,7 @@
             </section>
           </section>
           <section class="resumeSection project">
-            <div class="dates">December 2018</div>
+            <div class="dates">Dec 2018</div>
             <section class="projectInfo">
               <div class="projectTitle"><a class="projectLink" href="projects/neighborhoodMap" target="_blank">Neighborhood Map</a></div>
               <div class="projectDesc">
@@ -79,7 +79,7 @@
             </section>
           </section>
           <section class="resumeSection project">
-            <div class="dates">November 2018</div>
+            <div class="dates">Nov 2018</div>
             <section class="projectInfo">
               <div class="projectTitle"><a class="projectLink" href="projects/myReads/" target="_blank">MyReads - A Book Tracking App</a></div>
               <div class="projectDesc">
@@ -92,7 +92,7 @@
             </section>
           </section>
           <section class="resumeSection project">
-            <div class="dates">October 2018</div>
+            <div class="dates">Oct 2018</div>
             <section class="projectInfo">
               <div class="projectTitle"><a class="projectLink" href="projects/restaurantReviews/" target="_blank">Restaurant Reviews</a></div>
               <div class="projectDesc">
@@ -108,7 +108,7 @@
           <h3 class="sectionHeader">Experience</h3>
           <section class="resumeSection">
             <div class="dates">Oct 2019 - Present</div>
-            <section class="certifications">
+            <section class="details">
               <span class="title">Front-End Developer</span>
               <span class="institution">OptOut</span>
               <span class="city">Remote</span>
@@ -120,8 +120,8 @@
             </section>
           </section>
           <section class="resumeSection">
-            <div class="dates">June 2019 - March 2020</div>
-            <section class="certifications">
+            <div class="dates">Jun 2019 - Mar 2020</div>
+            <section class="details">
               <span class="title">Full-Stack Developer</span>
               <span class="institution">Coders For Bernie Sanders</span>
               <span class="city">Remote</span>
@@ -133,11 +133,11 @@
             </section>
           </section>
           <section class="resumeSection">
-            <div class="dates">June 2019 - April 2020</div>
-            <section class="certifications">
+            <div class="dates">Jun 2019 - Apr 2020</div>
+            <section class="details">
               <span class="title">Campaign Volunteer</span>
               <span class="institution">Bernie Sanders 2020</span>
-              <span class="city">Agoura Hills, CA</span>
+              <span class="city">Agoura Hills, California</span>
               <ul class="duties">
                 <li class="description">Communicated with potential voters through community canvasses and on the phone in both English and Spanish.</li>
                 <li class="description">Lead community canvasses by organizing a staging area and training volunteers.</li>
@@ -145,8 +145,8 @@
             </section>
           </section>
           <section class="resumeSection">
-            <div class="dates">May 2019 - October 2019</div>
-            <section class="certifications">
+            <div class="dates">May 2019 - Oct 2019</div>
+            <section class="details">
               <span class="title">Independent Consultant</span>
               <span class="institution">Udacity</span>
               <span class="city">Remote</span>
@@ -157,8 +157,8 @@
             </section>
           </section>
           <section class="resumeSection">
-            <div class="dates">May 2017- June 2018</div>
-            <section class="certifications">
+            <div class="dates">May 2017 - Jun 2018</div>
+            <section class="details">
               <span class="title">Webmaster</span>
               <span class="institution">Lagoon Playgroup</span>
               <span class="city">Long Beach, California</span>
@@ -170,8 +170,8 @@
             </section>
           </section>
           <section class="resumeSection">
-            <div class="dates">Jan 2018- May 2018</div>
-            <section class="certifications">
+            <div class="dates">Jan 2018 - May 2018</div>
+            <section class="details">
               <span class="title">Volunteer</span>
               <span class="institution">Justice Democrats</span>
               <span class="city">Long Beach, California</span>
@@ -182,8 +182,44 @@
             </section>
           </section>
           <section class="resumeSection">
-            <div class="dates">May 2006 - August 2009</div>
-            <section class="certifications">
+            <div class="dates">Jan 2012 - May 2018</div>
+            <section class="details">
+              <span class="title">Adjunct Faculty-Spanish</span>
+              <span class="institution">Rio Hondo College</span>
+              <span class="city">Whittier, California</span>
+              <ul class="duties">
+                <li class="description">Taught introductory and heritage Spanish classes and collaborated actively with colleagues in organizing college activities.</li>
+                <li class="description">Provided instruction for over fifteen sections of web-hybrid Spanish classes, as well as three fully online courses.</li>
+              </ul>
+            </section>
+          </section>
+          <section class="resumeSection">
+            <div class="dates">Jan 2013 - Dec 2016</div>
+            <section class="details">
+              <span class="title">Adjunct Faculty-Spanish</span>
+              <span class="institution">Fullerton College</span>
+              <span class="city">Fullerton, California</span>
+              <ul class="duties">
+                <li class="description">Taught introductory Spanish classes and worked with colleagues to promote departmental activities and initiatives.</li>
+                <li class="description">Employed best teaching practices in more than ten class sections, including several evening and weekend courses.</li>
+              </ul>
+            </section>
+          </section>
+          <section class="resumeSection">
+            <div class="dates">Aug 2009 - May 2011</div>
+            <section class="details">
+              <span class="title">Instructional Faculty-Spanish</span>
+              <span class="institution">Pima Community College</span>
+              <span class="city">Tucson, Arizona</span>
+              <ul class="duties">
+                <li class="description">Taught introductory and intermediate Spanish classes and worked actively with colleagues to ensure a smoothly functioning department.</li>
+                <li class="description">Incorporated technology in innovative and creative ways for more than fifteen class sections.</li>
+              </ul>
+            </section>
+          </section>
+          <section class="resumeSection">
+            <div class="dates">May 2006 - Aug 2009</div>
+            <section class="details">
               <span class="title">Webmaster</span>
               <span class="institution">Department of Spanish and Portuguese, The University of Arizona</span>
               <ul class="duties">
@@ -194,8 +230,8 @@
             </section>
           </section>
           <section class="resumeSection">
-            <div class="dates">May 2006- August 2009</div>
-            <section class="certifications">
+            <div class="dates">May 2006 - Aug 2009</div>
+            <section class="details">
               <span class="title">D2L Coordinator</span>
               <span class="institution">Department of Spanish and Portuguese, The University of Arizona</span>
               <ul class="duties">
@@ -205,9 +241,57 @@
               </ul>
             </section>
           </section>
+          <section class="resumeSection">
+            <div class="dates">Aug 2004 - Aug 2009</div>
+            <section class="details">
+              <span class="title">Graduate Associate in Teaching</span>
+              <span class="institution">The University of Arizona</span>
+              <span class="city">Tucson, Arizona</span>
+              <ul class="duties">
+                <li class="description">Taught introductory and intermediate Spanish classes and conferred with graduate-student colleagues regarding best teaching practices.</li>
+                <li class="description">Developed lessons and administered assessments for more than fifteen class sections.</li>
+              </ul>
+            </section>
+          </section>
+          <section class="resumeSection">
+            <div class="dates">Aug 2003 - May 2004</div>
+            <section class="details">
+              <span class="title">Spanish Instructor</span>
+              <span class="institution">Penn State Erie, The Behrend College</span>
+              <span class="city">Erie, Pennsylvania</span>
+              <ul class="duties">
+                <li class="description">Taught introductory and intermediate Spanish classes to undergraduate students.</li>
+                <li class="description">Developed lessons and provided quality instruction for twelve class sections.</li>
+              </ul>
+            </section>
+          </section>
+          <section class="resumeSection">
+            <div class="dates">Aug 2002 - May 2003</div>
+            <section class="details">
+              <span class="title">Graduate Assistant in Teaching</span>
+              <span class="institution">Bowling Green State University</span>
+              <span class="city">Bowling Green, Ohio,</span>
+              <ul class="duties">
+                <li class="description">Taught introductory and intermediate Spanish classes and collaborated actively with other graduate-student instructors.</li>
+                <li class="description">Developed lessons and gave presentations promoting the university's study abroad program to more than fifty undergraduate students.</li>
+              </ul>
+            </section>
+          </section>
+          <section class="resumeSection">
+            <div class="dates">Aug 1999 - Jun 2001</div>
+            <section class="details">
+              <span class="title">Spanish Teacher</span>
+              <span class="institution">Saint Edward High School</span>
+              <span class="city">Lakewood, Ohio</span>
+              <ul class="duties">
+                <li class="description">Taught introductory, intermediate and honors Spanish classes and participated actively in departmental and school-wide activities.</li>
+                <li class="description">Developed curriculum and provided instruction for over three hundred students in a two-year period.</li>
+              </ul>
+            </section>
+          </section>
           <h3 class="sectionHeader">Education</h3>
           <section class="resumeSection">
-            <div class="dates">June 2019</div>
+            <div class="dates">Jun 2019</div>
             <section class="degreeInst">
               <div>
                 <span class="degree"><a class="projectLink" href="https://confirm.udacity.com/2HPDSE3L" target="_blank">Nanodegree – React</a></span>
@@ -216,7 +300,7 @@
             </section>
           </section>
           <section class="resumeSection">
-            <div class="dates">December 2018</div>
+            <div class="dates">Dec 2018</div>
             <section class="degreeInst">
               <div>
                 <span class="degree"><a class="projectLink" href="https://graduation.udacity.com/confirm/Q45LQ2AC" target="_blank">Nanodegree – Front-End Web Developer</a></span>
@@ -225,7 +309,7 @@
             </section>
           </section>
           <section class="resumeSection">
-            <div class="dates">June 2017</div>
+            <div class="dates">Jun 2017</div>
             <section class="degreeInst">
               <div>
                 <span class="degree">The Complete Web Developer Course, 2.0</span>
@@ -234,7 +318,7 @@
             </section>
           </section>
           <section class="resumeSection">
-            <div class="dates">September 2016</div>
+            <div class="dates">Sep 2016</div>
             <section class="degreeInst">
               <div>
                 <span class="degree"><a class="projectLink" href="https://confirm.udacity.com/KG3QD72D" target="_blank">Nanodegree – Intro to Programming</a></span>
@@ -243,7 +327,7 @@
             </section>
           </section>
           <section class="resumeSection">
-            <div class="dates">August 2009</div>
+            <div class="dates">Aug 2009</div>
             <section class="degreeInst">
               <div>
                 <span class="degree">Ph.D. in Spanish</span>
@@ -282,38 +366,38 @@
           </section>
           <h3 class="sectionHeader">Certifications</h3>
           <section class="resumeSection">
-            <div class="dates">December 2016</div>
-            <section class="certifications">
+            <div class="dates">Dec 2016</div>
+            <section class="details">
               <a class="projectLink" href="https://matthewpricesmith.com/files/html.pdf" target="_blank">HTML – Level 1 Certification</a>
             </section>
           </section>
           <section class="resumeSection">
-            <div class="dates">December 2016</div>
-            <section class="certifications">
+            <div class="dates">Dec 2016</div>
+            <section class="details">
               <a class="projectLink" href="https://matthewpricesmith.com/files/css.pdf" target="_blank">CSS – Level 1 Certification</a>
             </section>
           </section>
           <section class="resumeSection">
-            <div class="dates">December 2016</div>
-            <section class="certifications">
+            <div class="dates">Dec 2016</div>
+            <section class="details">
               <a class="projectLink" href="https://matthewpricesmith.com/files/javascript.pdf" target="_blank">JavaScript – Level 1 Certification</a>
             </section>
           </section>
           <section class="resumeSection">
-            <div class="dates">January 2017</div>
-            <section class="certifications">
+            <div class="dates">Jan 2017</div>
+            <section class="details">
               <a class="projectLink" href="https://matthewpricesmith.com/files/jquery.pdf" target="_blank">jQuery – Level 1 Certification</a>
             </section>
           </section>
           <section class="resumeSection">
-            <div class="dates">March 2017</div>
-            <section class="certifications">
+            <div class="dates">Mar 2017</div>
+            <section class="details">
               <a class="projectLink" href="https://matthewpricesmith.com/files/php.pdf" target="_blank">PHP – Level 1 Certification</a>
             </section>
           </section>
           <section class="resumeSection">
-            <div class="dates">June 2017</div>
-            <section class="certifications">
+            <div class="dates">Jun 2017</div>
+            <section class="details">
               <a class="projectLink" href="https://matthewpricesmith.com/files/mysql.pdf" target="_blank">MySQL – Level 1 Certification</a>
             </section>
           </section>

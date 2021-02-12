@@ -297,7 +297,7 @@ footer {
   width: 55%;
 }
 
-.degreeInst, .degree, .projectLink, .certifications {
+.degreeInst, .degree, .projectLink, .details {
   line-height: 1.25;
 }
 
@@ -336,7 +336,7 @@ footer {
   padding-left: .1em;
 }
 
-.degreeInst, .certifications {
+.degreeInst, .details {
   margin-left: 2em;
   width: 55%;
 }
