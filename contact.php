@@ -18,7 +18,7 @@
       $message = "Message from: ".$firstName." ".$lastName."\n\n"."Comments: ".(wordwrap($commentsEntered, 70, "\r\n"));
       $headers = "From: $emailEntered";
       if (mail($to, $subject, $message, $headers)) {
-           $received = "<div class='received'>Thanks for reaching out!  I'll be in touch soon.</div>";
+           $received = "<div class='received'>Thanks for reaching out!</div>";
       } else {
            $received = "<div class='received'>Email could not be sent.  Please try again later.</div>";
       }
@@ -54,7 +54,7 @@
               <input type="text" name="lastName" required>
             </div>
             <div class="formGroup">
-              <label for="email">Email Address:</label>
+              <label for="email">Email:</label>
               <input type="email" name="email" required>
               <?php echo $emailError ?>
             </div>
@@ -64,8 +64,10 @@
             </div>
             <button type="submit" name="submit">Submit</button>
           </form>
+          <div class="contactEmail">
+             <span>Email: <a class="email" href="mailto:devrmateo@gmail.com">devrmateo@gmail.com</a></span>
+          </div>
         </section>
-        <div class="contactEmail">Email: <a class="email" href="mailto:devrmateo@gmail.com">devrmateo@gmail.com</a></div>
       </main>
       <footer>
         <?php include "includes/footer.php" ?>
