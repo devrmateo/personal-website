@@ -13,12 +13,12 @@
         </section>
         <section class="content extendedContent">
           <h2>Resume</h2>
-          <p class="summary">I am a Front-End Developer working to advance the progressive political agenda in the United States. In addition, I am a talented problem solver, critical thinker, and communicator, aided by my previous experience as a college-level Spanish instructor.</p>
+          <p class="summary">I am a Front-End Developer at the OptOut Media Foundation. In addition, I am a talented problem solver, critical thinker, and communicator, aided by my previous experience as a college-level Spanish instructor.</p>
           <h3 class="sectionHeader">Projects</h3>
           <section class="resumeSection project">
             <div class="dates">Oct 2020 - Present</div>
             <section class="projectInfo">
-              <div class="projectTitle"><a class="projectLink" href="https://www.optoutnews.org/" target="_blank">OptOut</a></div>
+              <div class="projectTitle"><a class="projectLink" href="https://www.optoutnews.org/" target="_blank">OptOut News</a></div>
               <div class="projectDesc">
                 <ul>
                   <li class="description">Utilize my skills with React Native, Redux, and Git to build front-end features for a non-profit news aggregator app.</li>
@@ -107,10 +107,10 @@
           </section>
           <h3 class="sectionHeader">Experience</h3>
           <section class="resumeSection">
-            <div class="dates">Oct 2019 - Present</div>
+            <div class="dates">Oct 2020 - Present</div>
             <section class="details">
               <span class="title">Front-End Developer</span>
-              <span class="institution">OptOut</span>
+              <span class="institution">OptOut Media Foundation</span>
               <span class="city">Remote</span>
               <ul class="duties">
                 <li class="description">Build front-end features as a volunteer developer for a non-profit news aggregator app.</li>
@@ -364,47 +364,11 @@
                 <span class="city">Bowling Green, Ohio</span>
             </section>
           </section>
-          <h3 class="sectionHeader">Certifications</h3>
-          <section class="resumeSection">
-            <div class="dates">Dec 2016</div>
-            <section class="details">
-              <a class="projectLink" href="https://matthewpricesmith.com/files/html.pdf" target="_blank">HTML – Level 1 Certification</a>
-            </section>
-          </section>
-          <section class="resumeSection">
-            <div class="dates">Dec 2016</div>
-            <section class="details">
-              <a class="projectLink" href="https://matthewpricesmith.com/files/css.pdf" target="_blank">CSS – Level 1 Certification</a>
-            </section>
-          </section>
-          <section class="resumeSection">
-            <div class="dates">Dec 2016</div>
-            <section class="details">
-              <a class="projectLink" href="https://matthewpricesmith.com/files/javascript.pdf" target="_blank">JavaScript – Level 1 Certification</a>
-            </section>
-          </section>
-          <section class="resumeSection">
-            <div class="dates">Jan 2017</div>
-            <section class="details">
-              <a class="projectLink" href="https://matthewpricesmith.com/files/jquery.pdf" target="_blank">jQuery – Level 1 Certification</a>
-            </section>
-          </section>
-          <section class="resumeSection">
-            <div class="dates">Mar 2017</div>
-            <section class="details">
-              <a class="projectLink" href="https://matthewpricesmith.com/files/php.pdf" target="_blank">PHP – Level 1 Certification</a>
-            </section>
-          </section>
-          <section class="resumeSection">
-            <div class="dates">Jun 2017</div>
-            <section class="details">
-              <a class="projectLink" href="https://matthewpricesmith.com/files/mysql.pdf" target="_blank">MySQL – Level 1 Certification</a>
-            </section>
-          </section>
-          <h3 class="sectionHeader">Other Technical Skills</h3>
+          <h3 class="sectionHeader">Technical Skills</h3>
           <section class="resumeSection">
             <ul>
               <li class="skills">Object-Oriented Programming</li>
+              <li class="skills">Functional Programming</li>
               <li class="skills">Responsive Web Design</li>
               <li class="skills">Git</li>
               <li class="skills">Github</li>
@@ -412,8 +376,10 @@
               <li class="skills">Command Line (Terminal)</li>
               <li class="skills">Gulp</li>
               <li class="skills">Bootstrap</li>
+              <li class="skills">PHP</li>
               <li class="skills">WordPress</li>
               <li class="skills">Node Package Manager</li>
+              <li class="skills">Yarn</li>
               <li class="skills">AJAX</li>
               <li class="skills">React</li>
               <li class="skills">Redux</li>
