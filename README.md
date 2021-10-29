@@ -2,7 +2,7 @@
 
 ---
 
-This is the original version of my personal website that I built in the summer of 2017. Until I updated my website in the fall of 2021 using ([React](https://github.com/devrmateo/personal-website-react)), it served as a digital portfolio of my web development skills and projects, and explains how I got into the field of web development to begin with. I built it using PHP, making use of various file includes, to ensure a clean directory structure and files that were easier to read.
+This is the original version of my personal website that I built in the summer of 2017. Until I updated my website in the fall of 2021 using [React](https://github.com/devrmateo/personal-website-react), it served as a digital portfolio of my web development skills and projects, and explains how I got into the field of web development to begin with. I built it using PHP, making use of various file includes, to ensure a clean directory structure and files that were easier to read.
 
 # How to view this website locally
 
